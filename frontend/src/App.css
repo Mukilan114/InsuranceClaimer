@@ -1,0 +1,256 @@
+:root {
+  --primary-color: #2c3e50;
+  --secondary-color: #3498db;
+  --accent-color: #8e44ad;
+  --background-color: #f4f6f9;
+  --card-bg: #ffffff;
+  --text-color: #333333;
+  --high-risk-color: #e74c3c;
+  --low-risk-color: #27ae60;
+  --shadow-color: rgba(0, 0, 0, 0.1);
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  -webkit-font-smoothing: antialiased;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+header h1 {
+  color: var(--primary-color);
+  margin-bottom: 10px;
+  font-size: 2.5rem;
+  letter-spacing: -1px;
+}
+
+.subtitle {
+  color: #7f8c8d;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.main-content {
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 40px;
+}
+
+@media (max-width: 900px) {
+  .main-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+.form-card,
+.result-card,
+.info-card {
+  background: var(--card-bg);
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px var(--shadow-color);
+  transition: transform 0.3s ease;
+}
+
+.form-card h2,
+.result-card h3,
+.info-card h3 {
+  margin-top: 0;
+  color: var(--primary-color);
+  border-bottom: 2px solid #ecf0f1;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.full-width {
+  grid-column: span 2;
+}
+
+label {
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-size: 0.95em;
+  color: #34495e;
+}
+
+input,
+select {
+  padding: 12px 15px;
+  border: 1px solid #dfe6e9;
+  border-radius: 8px;
+  font-size: 1em;
+  background-color: #fdfdfd;
+  transition: all 0.3s;
+}
+
+input:focus,
+select:focus {
+  border-color: var(--secondary-color);
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2);
+  outline: none;
+}
+
+.input-icon-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.currency-symbol {
+  position: absolute;
+  left: 12px;
+  color: #7f8c8d;
+  font-weight: bold;
+}
+
+.input-icon-wrapper input {
+  padding-left: 25px;
+  width: 100%;
+}
+
+.submit-btn {
+  width: 100%;
+  margin-top: 30px;
+  padding: 14px;
+  background: linear-gradient(135deg, var(--secondary-color), #2980b9);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1em;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(52, 152, 219, 0.4);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.submit-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(52, 152, 219, 0.6);
+}
+
+.submit-btn:active {
+  transform: translateY(0);
+}
+
+.right-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.result-box {
+  text-align: center;
+  padding: 10px;
+}
+
+.risk-badge {
+  display: inline-block;
+  padding: 12px 30px;
+  font-size: 1.8em;
+  font-weight: 800;
+  border-radius: 50px;
+  color: white;
+  margin: 15px 0 25px 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.high-risk .risk-badge {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+  box-shadow: 0 10px 20px rgba(231, 76, 60, 0.4);
+}
+
+.low-risk .risk-badge {
+  background: linear-gradient(135deg, #2ecc71, #27ae60);
+  box-shadow: 0 10px 20px rgba(46, 204, 113, 0.4);
+}
+
+.confidence-section {
+  margin: 20px 0;
+  text-align: left;
+}
+
+.progress-bar {
+  background-color: #ecf0f1;
+  border-radius: 10px;
+  height: 10px;
+  margin: 10px 0;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background-color: var(--primary-color);
+  transition: width 1s ease-out;
+}
+
+.confidence-value {
+  font-weight: bold;
+  color: var(--primary-color);
+  float: right;
+}
+
+.explanation {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 12px;
+  text-align: left;
+  border-left: 5px solid var(--secondary-color);
+}
+
+.explanation h4 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
+.explanation ul {
+  padding-left: 20px;
+  margin-bottom: 0;
+}
+
+.explanation li {
+  margin-bottom: 8px;
+  color: #555;
+}
+
+.info-card h3 {
+  border-bottom-color: var(--accent-color);
+  color: var(--accent-color);
+}
+
+.info-card p {
+  line-height: 1.6;
+  color: #666;
+}
+
+.error-msg {
+  color: var(--high-risk-color);
+  font-weight: bold;
+  background: rgba(231, 76, 60, 0.1);
+  padding: 10px;
+  border-radius: 6px;
+  margin-top: 15px;
+}

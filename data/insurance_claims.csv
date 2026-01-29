@@ -1,0 +1,1201 @@
+Claim_ID,Customer_Age,Gender,Policy_Type,Claim_Amount,Premium_Amount,Claim_History_Count,Previous_Fraud_Flag,Days_To_Report,Claim_Type,Risk_Label
+CLM10000,69,Male,Property,74539.42,4923.93,0,0,23,Medical,Low Risk
+CLM10001,38,Male,Life,325243.92,3568.51,1,0,27,Natural Disaster,Low Risk
+CLM10002,79,Female,Property,63746.67,3325.02,1,0,6,Natural Disaster,Low Risk
+CLM10003,70,Female,Life,158461.46,11673.0,3,0,16,Medical,High Risk
+CLM10004,21,Female,Vehicle,16081.97,1126.06,5,0,35,Medical,High Risk
+CLM10005,79,Female,Health,20045.19,1121.48,0,0,59,Accident,Low Risk
+CLM10006,32,Male,Health,1766.18,342.92,0,1,50,Natural Disaster,High Risk
+CLM10007,58,Female,Property,85753.66,4464.48,0,0,36,Medical,High Risk
+CLM10008,52,Male,Property,16361.45,1618.2,1,0,274,Natural Disaster,Low Risk
+CLM10009,68,Male,Life,336384.69,13184.28,4,0,42,Accident,High Risk
+CLM10010,49,Male,Property,71004.57,6686.34,0,0,27,Medical,Low Risk
+CLM10011,79,Male,Health,12168.82,1016.66,3,1,7,Theft,High Risk
+CLM10012,54,Male,Property,30594.17,1145.45,0,0,51,Accident,Low Risk
+CLM10013,56,Female,Property,33583.44,1311.52,1,0,306,Accident,Low Risk
+CLM10014,18,Male,Vehicle,5201.95,775.43,0,0,10,Accident,Low Risk
+CLM10015,87,Female,Property,82561.03,6917.99,1,0,2,Natural Disaster,High Risk
+CLM10016,53,Male,Vehicle,15850.7,839.69,0,0,38,Accident,Low Risk
+CLM10017,67,Male,Property,88347.24,3298.42,3,0,59,Accident,High Risk
+CLM10018,65,Female,Life,301232.05,27116.86,0,0,15,Medical,Low Risk
+CLM10019,89,Female,Vehicle,20400.66,1519.09,4,1,45,Theft,High Risk
+CLM10020,52,Female,Health,11989.2,1083.25,0,0,7,Accident,Low Risk
+CLM10021,76,Male,Vehicle,8690.87,766.96,0,0,26,Accident,Low Risk
+CLM10022,47,Male,Life,351015.83,31002.52,1,0,249,Medical,Low Risk
+CLM10023,23,Male,Life,56955.48,5599.38,5,0,20,Accident,High Risk
+CLM10024,84,Female,Vehicle,17147.24,1994.61,1,0,31,Natural Disaster,Low Risk
+CLM10025,19,Female,Health,42584.82,1333.03,1,0,25,Accident,Low Risk
+CLM10026,41,Male,Life,280104.08,15863.27,1,0,187,Medical,Low Risk
+CLM10027,80,Female,Property,49231.81,3111.32,1,1,134,Natural Disaster,High Risk
+CLM10028,77,Male,Health,41565.58,1917.57,1,0,31,Natural Disaster,Low Risk
+CLM10029,33,Male,Vehicle,15972.71,1042.07,0,0,54,Theft,Low Risk
+CLM10030,79,Male,Property,71117.55,3498.03,0,0,53,Medical,High Risk
+CLM10031,78,Male,Life,299459.32,19749.13,0,0,36,Accident,High Risk
+CLM10032,86,Male,Health,16259.25,1766.07,0,0,20,Accident,Low Risk
+CLM10033,27,Female,Health,44447.34,1594.24,4,0,44,Medical,Low Risk
+CLM10034,19,Male,Life,313599.01,30003.15,0,0,32,Natural Disaster,High Risk
+CLM10035,50,Female,Vehicle,6993.85,428.22,0,1,49,Accident,High Risk
+CLM10036,25,Male,Vehicle,20766.8,1048.58,1,0,49,Accident,Low Risk
+CLM10037,53,Female,Health,37780.12,3617.41,1,0,38,Natural Disaster,Low Risk
+CLM10038,79,Female,Health,12691.25,1299.4,0,0,48,Medical,Low Risk
+CLM10039,36,Male,Life,54876.94,5156.9,0,0,51,Natural Disaster,Low Risk
+CLM10040,33,Male,Health,15367.33,977.24,2,0,56,Accident,Low Risk
+CLM10041,22,Male,Property,56862.0,4668.23,2,0,16,Natural Disaster,Low Risk
+CLM10042,63,Male,Life,82743.35,7330.24,0,0,18,Accident,Low Risk
+CLM10043,88,Male,Health,37915.53,1796.5,2,0,26,Natural Disaster,Low Risk
+CLM10044,56,Female,Property,29099.81,1680.8,2,0,40,Natural Disaster,Low Risk
+CLM10045,80,Female,Health,5061.67,565.85,3,0,222,Medical,High Risk
+CLM10046,53,Male,Property,97083.74,5893.18,2,0,52,Natural Disaster,Low Risk
+CLM10047,45,Male,Life,126355.96,8874.85,0,0,36,Medical,High Risk
+CLM10048,44,Female,Property,55929.15,2542.86,2,0,156,Natural Disaster,High Risk
+CLM10049,83,Female,Life,444497.67,26677.07,1,0,17,Accident,High Risk
+CLM10050,28,Male,Vehicle,12045.83,1608.81,3,0,34,Accident,Low Risk
+CLM10051,70,Male,Vehicle,25639.77,1107.39,0,0,12,Accident,Low Risk
+CLM10052,49,Female,Life,170902.62,2349.52,1,0,49,Theft,Low Risk
+CLM10053,64,Male,Property,79543.49,5794.59,4,0,49,Theft,High Risk
+CLM10054,68,Male,Vehicle,11099.41,1037.9,0,0,50,Accident,Low Risk
+CLM10055,86,Female,Vehicle,15285.92,958.49,0,0,56,Medical,Low Risk
+CLM10056,33,Female,Life,131846.04,5878.91,1,0,49,Natural Disaster,Low Risk
+CLM10057,38,Female,Health,27186.75,1600.6,0,0,304,Natural Disaster,Low Risk
+CLM10058,73,Female,Property,92482.88,1643.96,3,0,51,Natural Disaster,High Risk
+CLM10059,45,Male,Vehicle,14413.51,1228.44,0,0,46,Natural Disaster,Low Risk
+CLM10060,35,Female,Vehicle,16445.9,731.04,0,1,56,Theft,High Risk
+CLM10061,34,Male,Life,263286.47,11406.87,1,0,21,Medical,Low Risk
+CLM10062,57,Male,Life,107411.14,4062.61,1,0,55,Theft,Low Risk
+CLM10063,39,Male,Vehicle,11595.35,1065.35,0,0,23,Natural Disaster,Low Risk
+CLM10064,20,Male,Property,43987.7,4473.82,0,0,150,Accident,High Risk
+CLM10065,79,Male,Vehicle,17146.12,1265.54,2,0,53,Medical,Low Risk
+CLM10066,37,Male,Life,101676.57,6819.94,1,0,35,Natural Disaster,Low Risk
+CLM10067,27,Male,Property,57147.59,1982.86,0,0,8,Natural Disaster,Low Risk
+CLM10068,32,Female,Vehicle,12943.39,1007.64,3,0,13,Natural Disaster,Low Risk
+CLM10069,39,Female,Life,401681.52,34348.19,2,0,36,Natural Disaster,Low Risk
+CLM10070,43,Female,Life,192288.46,12477.29,1,0,31,Theft,Low Risk
+CLM10071,42,Male,Health,20182.62,1294.56,0,0,5,Natural Disaster,Low Risk
+CLM10072,68,Female,Vehicle,5038.89,758.51,1,0,35,Accident,Low Risk
+CLM10073,72,Male,Vehicle,6931.79,812.39,2,0,12,Medical,Low Risk
+CLM10074,69,Female,Property,80743.06,2088.56,2,0,30,Medical,Low Risk
+CLM10075,86,Female,Property,96112.11,4114.93,1,0,42,Accident,High Risk
+CLM10076,79,Female,Health,13544.76,1357.76,0,0,4,Medical,Low Risk
+CLM10077,48,Female,Health,21782.4,2135.31,4,1,20,Medical,High Risk
+CLM10078,71,Male,Health,17275.17,847.93,1,0,52,Medical,Low Risk
+CLM10079,52,Male,Life,291828.02,27316.39,0,0,16,Natural Disaster,Low Risk
+CLM10080,68,Female,Life,309934.38,7829.74,0,0,42,Medical,Low Risk
+CLM10081,66,Female,Vehicle,25958.33,1683.42,0,0,29,Natural Disaster,Low Risk
+CLM10082,73,Male,Vehicle,6949.05,303.37,1,0,17,Natural Disaster,Low Risk
+CLM10083,55,Male,Property,14783.24,722.9,2,0,18,Medical,Low Risk
+CLM10084,72,Female,Life,372187.5,25904.61,0,0,58,Medical,Low Risk
+CLM10085,84,Male,Health,28279.36,2539.49,5,0,15,Accident,Low Risk
+CLM10086,71,Male,Vehicle,9501.28,966.68,0,0,18,Natural Disaster,Low Risk
+CLM10087,19,Male,Property,64352.32,3018.8,0,1,19,Theft,High Risk
+CLM10088,26,Female,Health,15428.82,1876.75,0,0,55,Natural Disaster,Low Risk
+CLM10089,31,Male,Life,364480.63,17036.97,1,0,25,Accident,Low Risk
+CLM10090,54,Male,Vehicle,27514.67,897.34,0,0,24,Medical,Low Risk
+CLM10091,29,Male,Health,25219.42,1988.67,1,0,267,Natural Disaster,Low Risk
+CLM10092,70,Female,Property,28308.17,1490.38,0,0,38,Theft,Low Risk
+CLM10093,39,Male,Life,146723.17,2083.91,1,0,58,Theft,Low Risk
+CLM10094,43,Female,Health,17874.8,1009.4,2,0,24,Natural Disaster,Low Risk
+CLM10095,76,Male,Health,7704.11,1014.31,0,0,23,Natural Disaster,Low Risk
+CLM10096,38,Male,Property,73789.82,5462.04,4,0,40,Natural Disaster,High Risk
+CLM10097,34,Male,Vehicle,17470.41,1727.74,2,0,47,Natural Disaster,Low Risk
+CLM10098,56,Male,Vehicle,16150.6,1458.46,0,0,244,Medical,Low Risk
+CLM10099,56,Male,Life,292771.08,23990.29,1,0,41,Theft,Low Risk
+CLM10100,72,Male,Vehicle,29719.9,472.02,0,0,58,Medical,Low Risk
+CLM10101,33,Female,Life,492837.56,39272.54,1,0,200,Medical,Low Risk
+CLM10102,47,Female,Life,371998.99,23654.2,4,1,14,Medical,High Risk
+CLM10103,87,Male,Life,447889.54,29158.61,5,1,7,Natural Disaster,High Risk
+CLM10104,71,Male,Property,53705.41,1822.6,0,0,2,Accident,Low Risk
+CLM10105,79,Male,Life,453846.27,23814.96,2,1,3,Theft,High Risk
+CLM10106,28,Male,Life,169520.02,4126.68,5,0,39,Natural Disaster,High Risk
+CLM10107,55,Female,Property,73724.91,4159.92,0,0,4,Theft,Low Risk
+CLM10108,57,Male,Life,282235.56,26177.42,2,0,12,Theft,Low Risk
+CLM10109,76,Male,Life,368763.34,31846.01,2,0,37,Accident,High Risk
+CLM10110,62,Female,Health,2433.12,356.72,0,0,317,Theft,Low Risk
+CLM10111,83,Female,Health,31229.42,3422.79,0,0,23,Medical,Low Risk
+CLM10112,87,Male,Vehicle,1534.4,511.08,0,0,36,Medical,Low Risk
+CLM10113,85,Male,Life,368677.44,6254.4,0,0,58,Theft,Low Risk
+CLM10114,81,Male,Health,22851.96,1898.13,0,0,32,Natural Disaster,Low Risk
+CLM10115,43,Female,Vehicle,14587.64,1526.52,3,0,28,Medical,Low Risk
+CLM10116,49,Female,Property,69647.43,5008.43,5,0,20,Accident,Low Risk
+CLM10117,74,Male,Property,34635.44,1735.94,2,0,48,Medical,Low Risk
+CLM10118,35,Male,Life,262944.46,25715.95,3,0,14,Theft,High Risk
+CLM10119,81,Female,Health,45679.97,4608.61,1,1,6,Medical,High Risk
+CLM10120,26,Female,Life,271217.55,4612.28,0,0,10,Accident,Low Risk
+CLM10121,55,Female,Property,71023.28,6620.16,0,0,23,Medical,Low Risk
+CLM10122,63,Female,Property,52394.37,3819.84,1,1,313,Accident,High Risk
+CLM10123,83,Female,Property,24081.61,2171.78,0,0,39,Natural Disaster,Low Risk
+CLM10124,23,Male,Vehicle,18881.53,1449.95,4,0,19,Natural Disaster,High Risk
+CLM10125,21,Female,Vehicle,23731.14,1380.73,0,0,133,Medical,Low Risk
+CLM10126,30,Male,Health,31171.36,1522.82,2,0,52,Natural Disaster,Low Risk
+CLM10127,73,Male,Property,66780.94,2239.21,0,1,32,Accident,High Risk
+CLM10128,48,Female,Health,42466.02,3221.9,2,0,49,Medical,Low Risk
+CLM10129,83,Male,Vehicle,23995.73,2151.38,0,0,2,Medical,Low Risk
+CLM10130,38,Male,Health,7446.82,1017.84,0,0,13,Accident,Low Risk
+CLM10131,79,Female,Life,232259.36,15048.34,2,0,16,Accident,High Risk
+CLM10132,45,Female,Property,67389.98,3055.6,0,0,46,Theft,Low Risk
+CLM10133,18,Male,Life,314547.97,30200.24,0,0,42,Accident,High Risk
+CLM10134,54,Male,Health,35563.89,2230.04,1,0,19,Theft,Low Risk
+CLM10135,43,Male,Health,6983.39,827.59,0,0,13,Medical,Low Risk
+CLM10136,70,Female,Life,358685.48,4377.16,5,1,42,Medical,High Risk
+CLM10137,62,Female,Life,472918.91,36088.3,0,0,28,Accident,Low Risk
+CLM10138,64,Female,Health,42067.65,4370.37,1,0,7,Accident,Low Risk
+CLM10139,36,Male,Life,422077.5,29887.88,0,0,5,Accident,Low Risk
+CLM10140,58,Male,Life,388592.49,7265.84,0,0,37,Theft,High Risk
+CLM10141,30,Male,Property,46380.41,4025.72,1,1,14,Theft,High Risk
+CLM10142,88,Male,Health,19640.57,1504.56,1,0,176,Theft,Low Risk
+CLM10143,20,Male,Vehicle,28592.88,2931.69,3,0,4,Accident,High Risk
+CLM10144,61,Female,Property,42464.71,2923.16,2,0,20,Natural Disaster,Low Risk
+CLM10145,68,Male,Life,470496.21,19734.87,1,0,51,Accident,Low Risk
+CLM10146,45,Male,Life,190088.46,12728.91,0,0,24,Natural Disaster,Low Risk
+CLM10147,30,Male,Property,33051.44,2864.7,4,1,53,Medical,High Risk
+CLM10148,62,Female,Property,95383.32,6546.04,3,0,8,Medical,High Risk
+CLM10149,89,Female,Life,300486.68,10139.3,2,0,38,Theft,High Risk
+CLM10150,36,Female,Vehicle,14101.26,1052.69,2,0,54,Theft,Low Risk
+CLM10151,88,Female,Property,27034.97,1559.27,1,0,34,Theft,Low Risk
+CLM10152,84,Female,Vehicle,13927.94,1153.8,0,0,3,Theft,Low Risk
+CLM10153,53,Female,Health,44815.35,1451.38,0,0,3,Medical,Low Risk
+CLM10154,19,Female,Health,4426.65,507.77,1,0,43,Natural Disaster,Low Risk
+CLM10155,52,Female,Property,49194.53,1083.14,5,0,56,Theft,Low Risk
+CLM10156,79,Female,Health,41268.52,637.62,5,0,22,Medical,Low Risk
+CLM10157,47,Male,Life,330613.56,6360.16,0,0,37,Accident,High Risk
+CLM10158,31,Female,Health,12140.51,747.1,0,0,0,Medical,Low Risk
+CLM10159,72,Female,Property,79696.22,5244.91,0,0,48,Theft,Low Risk
+CLM10160,62,Male,Vehicle,26461.26,2754.27,2,0,8,Natural Disaster,Low Risk
+CLM10161,37,Female,Life,469728.83,29304.4,0,0,0,Theft,Low Risk
+CLM10162,69,Male,Property,42872.99,1240.54,0,1,24,Accident,High Risk
+CLM10163,30,Male,Vehicle,26407.05,1364.77,0,1,1,Natural Disaster,High Risk
+CLM10164,48,Male,Health,39257.32,2140.39,5,0,8,Accident,Low Risk
+CLM10165,33,Female,Health,25961.68,3014.04,1,0,51,Theft,Low Risk
+CLM10166,67,Male,Health,44443.61,2421.39,0,0,13,Accident,Low Risk
+CLM10167,38,Female,Property,18025.42,1234.76,0,0,20,Accident,Low Risk
+CLM10168,62,Female,Life,217133.86,7725.05,1,0,52,Medical,Low Risk
+CLM10169,69,Male,Vehicle,12379.42,1342.42,0,0,40,Medical,Low Risk
+CLM10170,65,Male,Health,42202.71,1028.68,1,0,33,Theft,Low Risk
+CLM10171,77,Male,Life,447106.75,9219.44,1,1,79,Accident,High Risk
+CLM10172,68,Female,Property,6150.31,985.96,0,0,10,Natural Disaster,Low Risk
+CLM10173,75,Male,Health,33354.83,2834.16,0,0,27,Medical,Low Risk
+CLM10174,42,Male,Vehicle,20353.16,424.8,0,0,24,Theft,Low Risk
+CLM10175,53,Female,Property,98097.18,6627.8,2,0,59,Theft,High Risk
+CLM10176,32,Male,Life,319339.21,6174.48,1,0,49,Theft,Low Risk
+CLM10177,68,Female,Health,32644.73,1592.83,3,0,40,Accident,High Risk
+CLM10178,30,Female,Health,48941.47,4108.12,0,0,21,Accident,Low Risk
+CLM10179,69,Male,Vehicle,7191.83,835.62,2,0,32,Natural Disaster,Low Risk
+CLM10180,36,Male,Health,5594.09,797.38,1,0,215,Medical,Low Risk
+CLM10181,27,Male,Life,416803.27,27612.43,0,0,154,Theft,Low Risk
+CLM10182,71,Female,Health,1540.55,522.8,2,0,30,Medical,Low Risk
+CLM10183,21,Female,Vehicle,26699.68,1948.68,1,0,309,Medical,Low Risk
+CLM10184,74,Male,Life,231047.21,20794.15,2,0,57,Medical,Low Risk
+CLM10185,47,Female,Property,30632.97,2880.27,0,0,44,Theft,Low Risk
+CLM10186,48,Female,Life,284133.46,12540.48,2,0,331,Natural Disaster,Low Risk
+CLM10187,21,Female,Life,130213.61,9836.94,2,0,25,Accident,High Risk
+CLM10188,78,Female,Vehicle,5793.53,757.38,1,0,58,Accident,Low Risk
+CLM10189,81,Male,Life,411189.49,21361.23,0,0,38,Natural Disaster,Low Risk
+CLM10190,18,Female,Health,1344.43,210.46,0,0,19,Medical,Low Risk
+CLM10191,31,Female,Vehicle,8886.54,976.12,2,0,44,Natural Disaster,Low Risk
+CLM10192,74,Male,Life,191835.28,15379.18,0,0,10,Natural Disaster,Low Risk
+CLM10193,43,Female,Life,167071.01,13152.14,0,0,25,Accident,Low Risk
+CLM10194,36,Male,Health,47404.76,4774.41,0,0,156,Natural Disaster,Low Risk
+CLM10195,78,Female,Life,375266.44,6421.23,1,0,5,Theft,Low Risk
+CLM10196,22,Female,Vehicle,25649.29,2085.81,1,0,21,Natural Disaster,Low Risk
+CLM10197,27,Male,Life,407295.37,22536.57,3,0,3,Theft,High Risk
+CLM10198,32,Female,Life,445023.54,40127.58,0,0,57,Accident,High Risk
+CLM10199,59,Female,Property,15020.0,1466.88,0,0,50,Medical,Low Risk
+CLM10200,25,Female,Life,406784.49,25567.72,2,0,47,Theft,Low Risk
+CLM10201,29,Female,Property,63279.95,3159.6,0,0,27,Medical,Low Risk
+CLM10202,25,Male,Life,344431.65,8435.5,1,0,31,Natural Disaster,High Risk
+CLM10203,80,Male,Property,16631.22,1480.98,5,0,26,Natural Disaster,Low Risk
+CLM10204,85,Male,Life,450616.12,8119.13,0,0,51,Theft,Low Risk
+CLM10205,28,Female,Property,66908.45,2762.01,3,0,29,Accident,High Risk
+CLM10206,45,Female,Vehicle,3918.49,280.57,0,0,57,Natural Disaster,Low Risk
+CLM10207,86,Female,Property,85155.05,2910.45,2,0,34,Medical,High Risk
+CLM10208,64,Male,Vehicle,25816.38,1220.83,0,0,3,Natural Disaster,Low Risk
+CLM10209,74,Male,Health,33004.98,3565.72,2,0,12,Natural Disaster,Low Risk
+CLM10210,23,Male,Property,58241.86,1443.02,1,0,7,Natural Disaster,Low Risk
+CLM10211,31,Female,Vehicle,9121.08,1012.71,4,0,19,Theft,Low Risk
+CLM10212,80,Male,Property,64682.62,4101.8,1,0,52,Medical,Low Risk
+CLM10213,31,Male,Health,15564.65,973.06,0,0,7,Accident,Low Risk
+CLM10214,58,Female,Property,64486.74,4163.79,0,0,10,Theft,High Risk
+CLM10215,65,Female,Health,30349.95,754.98,4,0,23,Medical,Low Risk
+CLM10216,62,Male,Property,12809.67,1463.76,0,0,51,Medical,Low Risk
+CLM10217,46,Male,Life,354391.86,7937.99,2,0,43,Theft,High Risk
+CLM10218,72,Male,Health,14178.99,1117.72,0,1,170,Natural Disaster,High Risk
+CLM10219,57,Female,Property,47509.47,2839.43,1,0,48,Natural Disaster,Low Risk
+CLM10220,37,Female,Health,17604.17,1776.46,1,0,40,Accident,Low Risk
+CLM10221,38,Male,Property,53204.13,5015.56,2,0,12,Accident,Low Risk
+CLM10222,18,Female,Life,378437.14,34201.89,0,0,32,Natural Disaster,High Risk
+CLM10223,66,Male,Life,358965.46,7541.93,1,0,18,Medical,Low Risk
+CLM10224,32,Male,Property,44204.16,3371.03,3,0,13,Theft,Low Risk
+CLM10225,19,Male,Vehicle,25041.51,2912.47,2,0,42,Accident,Low Risk
+CLM10226,79,Male,Property,37600.9,3204.51,3,0,17,Accident,Low Risk
+CLM10227,47,Female,Life,409271.15,34829.17,4,0,194,Medical,High Risk
+CLM10228,50,Female,Property,53609.73,1693.53,0,0,46,Accident,Low Risk
+CLM10229,52,Male,Property,11812.63,778.1,2,0,33,Medical,Low Risk
+CLM10230,82,Male,Life,125311.88,12407.08,5,1,288,Natural Disaster,High Risk
+CLM10231,54,Female,Life,191285.02,17548.48,3,0,12,Theft,High Risk
+CLM10232,34,Male,Life,203174.2,12093.41,1,0,21,Natural Disaster,Low Risk
+CLM10233,49,Male,Property,21831.24,1586.3,0,0,3,Medical,Low Risk
+CLM10234,80,Female,Health,22758.14,1805.81,1,0,59,Theft,High Risk
+CLM10235,54,Male,Health,8251.22,1099.98,4,0,33,Accident,High Risk
+CLM10236,64,Female,Vehicle,4788.92,538.53,2,0,144,Accident,Low Risk
+CLM10237,69,Female,Vehicle,18073.21,1005.55,0,0,14,Medical,Low Risk
+CLM10238,68,Male,Vehicle,14223.4,1050.75,1,0,34,Accident,Low Risk
+CLM10239,89,Male,Property,88929.15,4781.64,1,0,15,Theft,High Risk
+CLM10240,60,Male,Vehicle,16289.56,1448.03,3,0,34,Accident,Low Risk
+CLM10241,54,Male,Property,18570.78,1852.53,2,0,35,Natural Disaster,Low Risk
+CLM10242,40,Male,Vehicle,3251.83,414.63,0,0,2,Accident,Low Risk
+CLM10243,33,Female,Life,100819.24,8845.84,1,0,25,Natural Disaster,Low Risk
+CLM10244,48,Female,Vehicle,9149.13,1224.79,1,0,28,Natural Disaster,Low Risk
+CLM10245,70,Male,Health,11516.78,950.33,0,0,31,Theft,Low Risk
+CLM10246,89,Female,Life,336690.88,19599.56,0,0,14,Natural Disaster,Low Risk
+CLM10247,48,Female,Vehicle,4881.02,447.1,2,0,30,Accident,Low Risk
+CLM10248,43,Female,Life,317068.59,29064.61,1,0,43,Accident,Low Risk
+CLM10249,51,Female,Life,405019.61,36834.04,4,0,36,Natural Disaster,High Risk
+CLM10250,46,Male,Life,334720.35,24652.52,0,0,12,Medical,Low Risk
+CLM10251,38,Female,Property,65262.28,6665.02,1,0,40,Medical,High Risk
+CLM10252,35,Female,Vehicle,23352.64,683.16,0,0,35,Medical,Low Risk
+CLM10253,71,Female,Vehicle,7256.48,858.33,0,0,6,Natural Disaster,Low Risk
+CLM10254,45,Female,Life,73489.38,5534.22,1,0,42,Accident,High Risk
+CLM10255,70,Female,Property,84370.62,1206.92,0,1,35,Natural Disaster,High Risk
+CLM10256,42,Male,Property,36373.06,3536.48,2,0,57,Theft,Low Risk
+CLM10257,33,Male,Health,26543.51,2747.27,0,0,29,Accident,Low Risk
+CLM10258,23,Male,Life,199444.71,8525.44,0,0,83,Accident,High Risk
+CLM10259,68,Male,Life,454352.27,36981.99,1,0,3,Accident,Low Risk
+CLM10260,46,Female,Vehicle,15038.24,1451.53,0,0,8,Medical,Low Risk
+CLM10261,32,Female,Life,399617.6,11758.7,1,0,24,Accident,Low Risk
+CLM10262,28,Male,Health,26835.99,2623.14,1,0,46,Medical,Low Risk
+CLM10263,48,Male,Vehicle,2803.89,168.35,1,0,53,Theft,Low Risk
+CLM10264,44,Female,Property,38655.44,4173.29,1,0,17,Theft,Low Risk
+CLM10265,23,Male,Life,144133.46,2527.12,5,0,27,Accident,High Risk
+CLM10266,33,Female,Property,52332.42,2919.93,1,0,36,Natural Disaster,Low Risk
+CLM10267,43,Female,Life,423226.23,32361.09,2,0,15,Natural Disaster,Low Risk
+CLM10268,25,Male,Vehicle,14830.1,1306.0,1,0,58,Theft,Low Risk
+CLM10269,26,Male,Vehicle,23748.2,1364.02,3,1,41,Theft,High Risk
+CLM10270,72,Female,Life,92929.67,4626.49,1,0,9,Theft,Low Risk
+CLM10271,18,Female,Health,38289.39,1920.85,2,0,48,Theft,Low Risk
+CLM10272,34,Female,Health,13299.07,1051.57,2,0,57,Medical,Low Risk
+CLM10273,58,Male,Health,2764.92,517.96,0,0,4,Medical,Low Risk
+CLM10274,68,Male,Property,36002.15,3238.21,1,0,25,Accident,Low Risk
+CLM10275,32,Female,Life,142007.4,4901.37,1,1,269,Natural Disaster,High Risk
+CLM10276,41,Male,Life,71438.57,5796.56,0,0,33,Natural Disaster,Low Risk
+CLM10277,70,Female,Health,1000.57,356.52,0,0,6,Accident,Low Risk
+CLM10278,78,Female,Property,88859.77,1480.12,0,0,35,Accident,High Risk
+CLM10279,47,Female,Health,35918.45,3172.2,0,0,53,Medical,Low Risk
+CLM10280,39,Male,Vehicle,18128.5,1391.15,1,0,58,Theft,Low Risk
+CLM10281,27,Female,Health,18723.8,2139.65,0,0,48,Accident,Low Risk
+CLM10282,68,Female,Health,46713.32,4325.02,2,0,0,Theft,Low Risk
+CLM10283,51,Male,Health,10566.79,668.34,5,0,11,Accident,Low Risk
+CLM10284,72,Female,Health,16287.22,1172.81,0,0,155,Theft,Low Risk
+CLM10285,21,Female,Property,52603.35,4183.08,1,0,4,Theft,Low Risk
+CLM10286,30,Female,Life,371484.84,35749.98,3,0,30,Natural Disaster,High Risk
+CLM10287,74,Male,Life,162710.55,11106.43,3,0,17,Medical,Low Risk
+CLM10288,29,Female,Health,16032.05,1018.12,0,0,13,Medical,Low Risk
+CLM10289,36,Female,Health,4533.44,381.72,5,0,22,Natural Disaster,Low Risk
+CLM10290,71,Male,Life,495662.8,19942.6,4,1,28,Theft,High Risk
+CLM10291,58,Male,Property,54371.9,1248.24,1,0,1,Theft,Low Risk
+CLM10292,55,Female,Vehicle,18505.48,443.5,5,1,43,Natural Disaster,High Risk
+CLM10293,51,Female,Property,40459.68,2737.37,2,0,58,Medical,Low Risk
+CLM10294,19,Male,Life,476030.18,9459.53,4,0,58,Medical,High Risk
+CLM10295,45,Male,Health,19895.06,2192.19,4,0,45,Medical,High Risk
+CLM10296,23,Female,Vehicle,3954.9,315.94,0,0,24,Natural Disaster,Low Risk
+CLM10297,44,Female,Property,60998.13,4331.92,0,0,39,Accident,High Risk
+CLM10298,40,Male,Life,460184.58,6066.19,0,0,123,Theft,High Risk
+CLM10299,33,Female,Vehicle,28593.23,2865.74,3,0,12,Natural Disaster,Low Risk
+CLM10300,82,Male,Life,494446.82,18324.39,1,0,42,Accident,High Risk
+CLM10301,75,Male,Property,72018.78,3768.79,1,0,27,Natural Disaster,Low Risk
+CLM10302,39,Female,Property,61890.31,2075.14,1,0,23,Natural Disaster,Low Risk
+CLM10303,55,Female,Health,13751.59,499.1,0,0,20,Natural Disaster,Low Risk
+CLM10304,64,Female,Property,15491.03,782.02,0,0,22,Accident,Low Risk
+CLM10305,42,Male,Property,25525.71,2529.07,1,0,57,Accident,Low Risk
+CLM10306,78,Male,Vehicle,17047.76,1119.98,3,0,16,Medical,Low Risk
+CLM10307,46,Male,Health,21143.59,1839.13,1,0,217,Medical,Low Risk
+CLM10308,35,Female,Vehicle,16699.72,951.55,2,0,57,Medical,Low Risk
+CLM10309,45,Male,Vehicle,5841.0,393.58,0,0,23,Accident,Low Risk
+CLM10310,26,Male,Health,22018.27,1670.64,2,0,49,Accident,Low Risk
+CLM10311,65,Male,Health,35134.74,2392.08,1,0,16,Accident,Low Risk
+CLM10312,43,Male,Property,24410.06,1627.41,0,0,24,Natural Disaster,Low Risk
+CLM10313,49,Female,Life,446703.55,34247.3,2,0,21,Natural Disaster,Low Risk
+CLM10314,68,Female,Health,27047.29,1941.55,1,0,69,Accident,Low Risk
+CLM10315,74,Female,Life,431567.55,25999.48,1,0,53,Medical,High Risk
+CLM10316,84,Male,Property,38299.45,1794.58,0,0,187,Medical,Low Risk
+CLM10317,48,Female,Vehicle,23411.48,1516.24,2,0,36,Theft,Low Risk
+CLM10318,56,Female,Vehicle,22996.55,443.14,2,0,27,Medical,Low Risk
+CLM10319,33,Male,Property,61729.75,4707.1,1,0,41,Accident,Low Risk
+CLM10320,30,Male,Vehicle,12200.15,942.34,1,0,29,Medical,Low Risk
+CLM10321,19,Female,Life,249736.63,13112.55,1,0,56,Theft,High Risk
+CLM10322,84,Female,Health,16901.08,755.34,2,0,35,Theft,Low Risk
+CLM10323,21,Female,Property,98414.04,8361.69,2,0,99,Theft,High Risk
+CLM10324,87,Male,Health,44534.74,4101.37,3,0,24,Natural Disaster,High Risk
+CLM10325,88,Female,Health,41445.37,3765.5,1,0,47,Medical,Low Risk
+CLM10326,60,Male,Property,81128.06,5836.69,1,0,15,Accident,Low Risk
+CLM10327,47,Male,Life,344453.9,10743.05,2,0,31,Natural Disaster,High Risk
+CLM10328,75,Male,Property,64338.33,5983.62,1,0,18,Theft,Low Risk
+CLM10329,65,Male,Property,93177.3,8960.26,1,0,50,Theft,Low Risk
+CLM10330,21,Female,Health,23597.18,2533.75,4,0,53,Natural Disaster,High Risk
+CLM10331,58,Male,Property,97553.53,1910.25,2,0,0,Medical,Low Risk
+CLM10332,39,Female,Vehicle,20365.06,1906.31,0,0,54,Natural Disaster,Low Risk
+CLM10333,55,Male,Life,269823.03,12619.16,1,0,139,Medical,Low Risk
+CLM10334,57,Male,Vehicle,21376.57,534.08,4,1,45,Natural Disaster,High Risk
+CLM10335,73,Female,Property,75055.48,3107.05,5,1,41,Natural Disaster,High Risk
+CLM10336,74,Female,Property,85501.85,1569.26,0,0,48,Theft,Low Risk
+CLM10337,75,Female,Property,49565.19,1834.06,0,0,2,Accident,Low Risk
+CLM10338,57,Female,Life,53917.77,1477.01,1,0,55,Natural Disaster,Low Risk
+CLM10339,30,Female,Life,144728.12,12144.01,0,0,214,Natural Disaster,Low Risk
+CLM10340,28,Female,Vehicle,24310.34,875.45,1,0,208,Accident,Low Risk
+CLM10341,74,Male,Vehicle,9175.65,568.48,0,0,11,Natural Disaster,Low Risk
+CLM10342,32,Male,Property,17003.87,1437.01,4,1,20,Medical,High Risk
+CLM10343,55,Male,Life,212631.7,18842.8,0,0,24,Medical,High Risk
+CLM10344,30,Male,Health,41074.96,2691.13,1,0,53,Natural Disaster,Low Risk
+CLM10345,76,Female,Property,59233.35,1791.47,0,0,33,Medical,High Risk
+CLM10346,55,Female,Property,59269.74,1605.32,2,0,58,Natural Disaster,Low Risk
+CLM10347,79,Female,Health,2236.63,381.25,1,0,159,Theft,Low Risk
+CLM10348,66,Female,Life,387619.59,9463.86,0,0,57,Natural Disaster,Low Risk
+CLM10349,76,Male,Property,5611.35,827.25,1,0,16,Accident,Low Risk
+CLM10350,30,Male,Health,38381.77,899.47,0,0,51,Natural Disaster,Low Risk
+CLM10351,47,Male,Health,22470.75,2086.11,0,0,8,Medical,Low Risk
+CLM10352,74,Female,Life,465065.37,34110.95,0,0,38,Accident,Low Risk
+CLM10353,57,Male,Life,224295.13,3686.26,3,0,40,Natural Disaster,High Risk
+CLM10354,28,Female,Health,17278.07,746.21,1,0,5,Theft,Low Risk
+CLM10355,54,Male,Life,382580.14,13592.17,5,1,31,Medical,High Risk
+CLM10356,77,Female,Property,34628.55,1537.41,1,0,17,Accident,Low Risk
+CLM10357,44,Male,Property,20465.14,1461.14,5,0,204,Theft,Low Risk
+CLM10358,43,Female,Life,172868.28,4703.18,0,0,182,Accident,High Risk
+CLM10359,67,Female,Life,459128.87,17937.65,0,0,29,Accident,Low Risk
+CLM10360,66,Female,Vehicle,6026.95,470.56,2,0,45,Theft,Low Risk
+CLM10361,22,Female,Health,3217.21,201.34,1,0,34,Natural Disaster,High Risk
+CLM10362,81,Male,Life,229783.45,9160.44,3,0,214,Natural Disaster,High Risk
+CLM10363,86,Male,Property,61510.5,4818.41,2,0,11,Accident,Low Risk
+CLM10364,89,Male,Life,472242.08,40013.77,0,0,20,Theft,Low Risk
+CLM10365,57,Male,Property,59571.49,1710.48,3,0,21,Accident,High Risk
+CLM10366,25,Female,Property,9919.66,759.16,3,0,44,Theft,Low Risk
+CLM10367,32,Female,Health,19845.94,1239.83,4,0,48,Theft,Low Risk
+CLM10368,43,Male,Health,16278.3,890.38,1,0,56,Accident,Low Risk
+CLM10369,32,Male,Property,94155.81,6680.2,0,0,31,Medical,Low Risk
+CLM10370,41,Male,Health,19299.44,778.85,0,0,57,Accident,Low Risk
+CLM10371,85,Female,Property,7769.74,874.63,0,0,1,Theft,Low Risk
+CLM10372,25,Female,Property,74491.2,7356.51,3,0,50,Accident,High Risk
+CLM10373,35,Female,Health,39267.23,2077.59,3,0,29,Theft,High Risk
+CLM10374,21,Male,Property,52545.35,2776.59,1,0,9,Medical,Low Risk
+CLM10375,28,Male,Health,35138.06,1570.66,0,0,55,Theft,Low Risk
+CLM10376,82,Female,Vehicle,23715.64,1300.89,0,0,22,Theft,Low Risk
+CLM10377,64,Male,Property,52205.07,5240.78,0,0,46,Theft,Low Risk
+CLM10378,75,Female,Property,81471.55,1362.72,0,0,253,Accident,Low Risk
+CLM10379,81,Female,Life,66168.58,6367.11,1,1,207,Theft,High Risk
+CLM10380,74,Female,Property,34111.12,800.04,0,0,109,Natural Disaster,Low Risk
+CLM10381,63,Male,Life,91938.25,4481.34,0,0,35,Accident,Low Risk
+CLM10382,53,Female,Vehicle,10786.17,1086.5,0,0,44,Accident,Low Risk
+CLM10383,64,Female,Life,122615.31,7960.52,2,0,19,Natural Disaster,Low Risk
+CLM10384,53,Female,Vehicle,4641.4,548.91,1,0,33,Theft,Low Risk
+CLM10385,36,Female,Vehicle,26378.42,2296.97,1,0,4,Theft,Low Risk
+CLM10386,54,Female,Vehicle,2013.24,311.48,1,0,3,Theft,Low Risk
+CLM10387,78,Male,Property,98591.58,8074.36,1,0,23,Medical,Low Risk
+CLM10388,33,Female,Property,93771.14,7182.51,1,0,25,Medical,Low Risk
+CLM10389,19,Female,Life,280237.36,4556.19,0,0,2,Theft,Low Risk
+CLM10390,44,Male,Vehicle,18491.35,1650.94,1,0,319,Medical,Low Risk
+CLM10391,59,Male,Health,32870.84,1105.67,2,0,15,Theft,Low Risk
+CLM10392,83,Female,Life,106873.89,1685.65,3,0,38,Accident,High Risk
+CLM10393,44,Female,Property,81524.96,4157.02,1,0,38,Theft,High Risk
+CLM10394,35,Female,Vehicle,24205.98,2282.43,3,0,21,Medical,Low Risk
+CLM10395,37,Female,Vehicle,9578.9,305.53,0,0,39,Natural Disaster,Low Risk
+CLM10396,87,Female,Life,456217.48,39090.78,0,0,16,Natural Disaster,Low Risk
+CLM10397,44,Female,Property,74249.22,6100.88,0,0,16,Theft,Low Risk
+CLM10398,71,Female,Property,82451.25,7890.98,3,0,24,Theft,Low Risk
+CLM10399,89,Male,Health,16431.0,477.99,5,0,74,Theft,High Risk
+CLM10400,84,Male,Property,36059.4,1613.92,2,0,28,Accident,Low Risk
+CLM10401,37,Male,Property,87921.65,5227.47,1,0,59,Medical,Low Risk
+CLM10402,69,Male,Health,40028.92,1428.46,1,0,50,Natural Disaster,Low Risk
+CLM10403,73,Male,Life,97467.54,6429.23,0,0,26,Theft,Low Risk
+CLM10404,60,Male,Life,229625.06,15028.15,0,0,7,Theft,Low Risk
+CLM10405,29,Male,Property,91577.22,1314.62,0,0,53,Medical,High Risk
+CLM10406,21,Male,Life,390314.21,20122.74,4,1,27,Accident,High Risk
+CLM10407,53,Female,Vehicle,2772.04,294.82,0,0,44,Medical,Low Risk
+CLM10408,68,Female,Vehicle,18805.4,1514.33,0,0,24,Theft,Low Risk
+CLM10409,27,Male,Property,54899.55,1545.74,0,0,59,Accident,Low Risk
+CLM10410,21,Male,Vehicle,2698.39,499.22,3,0,23,Theft,High Risk
+CLM10411,49,Female,Health,20419.32,906.15,0,0,3,Natural Disaster,Low Risk
+CLM10412,65,Female,Vehicle,14627.55,988.1,0,0,11,Theft,Low Risk
+CLM10413,18,Male,Vehicle,29644.74,1423.04,1,0,18,Natural Disaster,Low Risk
+CLM10414,47,Male,Vehicle,14957.06,1719.72,0,0,78,Accident,Low Risk
+CLM10415,19,Female,Property,41190.43,953.97,4,1,32,Natural Disaster,High Risk
+CLM10416,28,Female,Property,60860.04,2962.6,1,0,5,Natural Disaster,Low Risk
+CLM10417,33,Male,Vehicle,5774.22,379.21,1,1,265,Accident,High Risk
+CLM10418,59,Male,Life,426756.75,25372.62,1,1,2,Medical,High Risk
+CLM10419,29,Male,Vehicle,15839.52,1100.47,3,0,77,Medical,Low Risk
+CLM10420,33,Male,Property,88413.18,5807.15,0,0,37,Theft,High Risk
+CLM10421,18,Female,Property,60975.39,3383.36,4,0,45,Accident,High Risk
+CLM10422,53,Male,Property,99003.01,7567.05,0,0,13,Natural Disaster,Low Risk
+CLM10423,26,Female,Life,60802.27,2614.08,0,0,7,Medical,High Risk
+CLM10424,65,Male,Vehicle,15221.85,504.82,1,0,9,Theft,Low Risk
+CLM10425,72,Male,Property,99288.89,3593.24,3,0,40,Natural Disaster,High Risk
+CLM10426,40,Female,Vehicle,6648.43,760.5,2,0,27,Accident,Low Risk
+CLM10427,57,Female,Vehicle,12679.45,1218.36,0,0,59,Medical,Low Risk
+CLM10428,72,Male,Vehicle,26508.44,2925.68,0,0,22,Natural Disaster,Low Risk
+CLM10429,35,Male,Property,20338.49,1388.28,1,0,50,Natural Disaster,Low Risk
+CLM10430,59,Male,Vehicle,2256.14,396.79,2,0,20,Medical,Low Risk
+CLM10431,37,Male,Vehicle,13153.88,1146.5,0,1,5,Accident,Low Risk
+CLM10432,55,Female,Health,16615.79,474.13,1,0,18,Accident,Low Risk
+CLM10433,52,Female,Health,10618.42,572.41,1,0,33,Natural Disaster,Low Risk
+CLM10434,42,Female,Vehicle,27478.2,1861.98,0,0,54,Accident,Low Risk
+CLM10435,87,Female,Health,4997.17,258.19,1,0,103,Medical,Low Risk
+CLM10436,80,Female,Health,16131.31,793.87,0,0,4,Medical,Low Risk
+CLM10437,30,Female,Vehicle,22341.62,795.63,1,0,8,Natural Disaster,Low Risk
+CLM10438,59,Male,Life,275026.22,19651.09,2,0,1,Medical,Low Risk
+CLM10439,68,Male,Property,19380.26,690.15,0,0,24,Natural Disaster,Low Risk
+CLM10440,87,Male,Vehicle,5269.59,375.98,1,0,59,Natural Disaster,Low Risk
+CLM10441,72,Male,Property,18600.33,1643.67,0,0,15,Medical,Low Risk
+CLM10442,68,Female,Vehicle,10191.34,1293.98,0,0,26,Medical,Low Risk
+CLM10443,23,Male,Vehicle,10616.89,942.77,1,0,137,Theft,Low Risk
+CLM10444,78,Female,Property,95476.74,4145.23,2,0,19,Theft,High Risk
+CLM10445,73,Female,Life,331240.89,22565.57,3,0,15,Medical,High Risk
+CLM10446,58,Male,Property,69281.24,4919.48,1,0,16,Accident,Low Risk
+CLM10447,31,Male,Life,363660.87,15968.56,2,0,49,Theft,High Risk
+CLM10448,87,Male,Property,86937.17,3071.09,1,0,33,Medical,High Risk
+CLM10449,51,Female,Property,38933.27,1903.25,1,0,30,Accident,Low Risk
+CLM10450,55,Female,Life,228539.78,12315.54,3,0,19,Accident,High Risk
+CLM10451,60,Male,Life,165491.24,13162.21,0,0,38,Accident,High Risk
+CLM10452,37,Female,Life,219386.73,13754.92,3,0,42,Medical,High Risk
+CLM10453,46,Female,Property,11422.45,1330.06,1,0,3,Natural Disaster,Low Risk
+CLM10454,60,Male,Life,369950.43,11907.04,4,1,49,Medical,High Risk
+CLM10455,71,Male,Health,22764.99,1915.38,3,0,275,Natural Disaster,Low Risk
+CLM10456,88,Female,Vehicle,29619.98,2507.17,1,0,51,Accident,Low Risk
+CLM10457,64,Female,Vehicle,7807.88,888.44,3,1,0,Accident,High Risk
+CLM10458,41,Female,Property,22567.43,1219.86,0,0,28,Medical,Low Risk
+CLM10459,59,Female,Health,47716.74,954.87,0,0,24,Medical,Low Risk
+CLM10460,39,Male,Life,177623.57,7100.52,2,1,20,Accident,High Risk
+CLM10461,38,Male,Life,125964.5,11045.92,1,0,9,Accident,Low Risk
+CLM10462,76,Male,Property,23925.87,1066.79,0,0,13,Medical,Low Risk
+CLM10463,29,Female,Vehicle,22444.61,1690.74,1,0,17,Accident,Low Risk
+CLM10464,40,Male,Vehicle,7087.03,725.14,2,0,54,Accident,Low Risk
+CLM10465,55,Male,Life,398855.54,16637.61,0,0,40,Natural Disaster,High Risk
+CLM10466,20,Female,Life,363452.63,34289.76,1,0,5,Natural Disaster,High Risk
+CLM10467,38,Female,Life,109520.92,3228.94,0,0,55,Medical,High Risk
+CLM10468,32,Female,Property,72703.23,2279.46,1,0,49,Natural Disaster,Low Risk
+CLM10469,80,Female,Health,42829.07,3468.15,0,0,23,Medical,Low Risk
+CLM10470,34,Female,Health,42597.27,2147.23,3,0,16,Medical,High Risk
+CLM10471,38,Female,Property,31824.95,1000.77,2,0,44,Accident,Low Risk
+CLM10472,31,Male,Health,17602.35,2079.46,1,0,8,Natural Disaster,Low Risk
+CLM10473,36,Female,Life,269323.0,19657.21,1,0,2,Theft,Low Risk
+CLM10474,36,Male,Life,392978.56,32878.56,1,0,34,Medical,Low Risk
+CLM10475,63,Female,Life,68480.68,5553.74,0,0,15,Accident,Low Risk
+CLM10476,23,Female,Life,133888.91,10687.07,0,0,266,Natural Disaster,High Risk
+CLM10477,43,Male,Vehicle,13386.05,1165.42,1,0,23,Medical,Low Risk
+CLM10478,43,Male,Life,242943.93,3714.21,0,0,16,Medical,Low Risk
+CLM10479,63,Male,Property,74468.81,6393.84,1,0,266,Medical,Low Risk
+CLM10480,39,Female,Life,428948.09,28228.62,0,0,18,Natural Disaster,Low Risk
+CLM10481,32,Female,Property,20722.48,1839.2,1,0,16,Medical,Low Risk
+CLM10482,38,Male,Property,71911.86,7124.56,0,0,9,Medical,Low Risk
+CLM10483,27,Female,Health,6943.85,571.65,1,0,12,Accident,Low Risk
+CLM10484,21,Female,Health,7081.26,536.64,0,0,10,Natural Disaster,Low Risk
+CLM10485,28,Female,Health,36672.6,3253.54,2,0,13,Theft,Low Risk
+CLM10486,38,Female,Vehicle,3021.86,528.33,0,0,110,Theft,Low Risk
+CLM10487,23,Male,Property,75363.04,4177.51,5,0,38,Natural Disaster,High Risk
+CLM10488,35,Female,Life,97772.16,8542.98,0,0,51,Theft,Low Risk
+CLM10489,74,Female,Life,425373.85,8888.22,1,0,17,Accident,Low Risk
+CLM10490,52,Male,Vehicle,11039.71,1000.06,1,0,258,Natural Disaster,Low Risk
+CLM10491,50,Male,Health,35342.42,1612.92,1,0,22,Medical,Low Risk
+CLM10492,82,Female,Life,238611.28,4987.99,1,0,53,Accident,High Risk
+CLM10493,75,Female,Property,14460.07,650.93,0,0,118,Medical,Low Risk
+CLM10494,33,Male,Life,385780.84,31869.04,1,0,51,Accident,High Risk
+CLM10495,24,Female,Life,354379.27,13316.47,2,0,10,Accident,Low Risk
+CLM10496,54,Male,Health,23063.56,1031.95,3,0,58,Accident,Low Risk
+CLM10497,61,Female,Vehicle,24683.0,2348.04,1,0,53,Natural Disaster,Low Risk
+CLM10498,86,Female,Vehicle,6421.01,616.78,3,0,37,Accident,High Risk
+CLM10499,68,Female,Property,80809.81,6304.98,0,0,11,Natural Disaster,Low Risk
+CLM10500,35,Female,Life,202465.86,9602.85,1,0,52,Natural Disaster,High Risk
+CLM10501,21,Male,Health,7533.88,456.47,4,1,0,Theft,High Risk
+CLM10502,34,Female,Property,10452.23,1106.98,0,0,37,Medical,Low Risk
+CLM10503,88,Male,Vehicle,28085.36,1031.09,1,0,47,Theft,High Risk
+CLM10504,72,Female,Health,36145.83,2674.13,3,0,29,Medical,Low Risk
+CLM10505,66,Female,Property,7889.51,1044.62,0,0,204,Medical,Low Risk
+CLM10506,54,Male,Property,52761.27,4874.1,1,0,35,Medical,High Risk
+CLM10507,72,Female,Life,268353.71,7467.13,1,0,59,Accident,Low Risk
+CLM10508,25,Male,Life,482636.54,32854.95,0,1,57,Natural Disaster,High Risk
+CLM10509,60,Male,Property,79432.64,1274.24,3,0,48,Medical,High Risk
+CLM10510,27,Male,Vehicle,27357.1,2501.78,4,0,51,Theft,Low Risk
+CLM10511,38,Female,Property,31842.28,1379.99,5,0,40,Accident,High Risk
+CLM10512,72,Female,Life,101913.26,9284.91,2,0,52,Natural Disaster,High Risk
+CLM10513,36,Male,Life,91096.58,2718.92,1,1,46,Theft,High Risk
+CLM10514,36,Male,Health,49775.65,2101.04,1,0,270,Theft,High Risk
+CLM10515,85,Male,Life,362736.56,20941.77,1,0,23,Natural Disaster,Low Risk
+CLM10516,18,Male,Life,244313.19,19926.72,2,0,18,Medical,Low Risk
+CLM10517,18,Female,Property,18636.75,670.18,1,0,31,Theft,Low Risk
+CLM10518,56,Male,Health,12963.23,1125.1,2,0,59,Natural Disaster,Low Risk
+CLM10519,89,Male,Property,96023.12,3339.5,3,0,24,Theft,High Risk
+CLM10520,39,Male,Property,16355.43,645.15,3,0,6,Medical,Low Risk
+CLM10521,59,Female,Life,488706.92,23247.21,1,0,3,Accident,Low Risk
+CLM10522,51,Female,Vehicle,18288.14,1584.57,3,1,49,Medical,High Risk
+CLM10523,68,Male,Health,10755.58,792.34,1,0,38,Medical,Low Risk
+CLM10524,23,Male,Health,36398.16,691.85,0,0,23,Natural Disaster,Low Risk
+CLM10525,65,Female,Property,30345.48,2096.28,3,0,26,Medical,Low Risk
+CLM10526,19,Male,Health,21049.95,1211.86,2,0,54,Medical,High Risk
+CLM10527,56,Male,Health,6116.35,686.96,1,0,53,Accident,Low Risk
+CLM10528,52,Male,Life,200199.47,12895.64,1,0,33,Natural Disaster,Low Risk
+CLM10529,83,Female,Health,7106.06,609.44,1,0,38,Natural Disaster,Low Risk
+CLM10530,87,Male,Property,15090.31,1627.83,2,0,160,Accident,Low Risk
+CLM10531,22,Male,Vehicle,19529.93,612.46,0,0,41,Medical,Low Risk
+CLM10532,33,Female,Vehicle,5219.95,775.55,1,0,54,Natural Disaster,Low Risk
+CLM10533,75,Male,Property,25886.89,1755.03,0,0,27,Natural Disaster,Low Risk
+CLM10534,43,Female,Property,59356.34,6017.52,0,0,2,Accident,Low Risk
+CLM10535,38,Male,Property,38039.33,591.21,2,0,34,Medical,Low Risk
+CLM10536,18,Male,Property,46717.41,880.06,3,0,296,Theft,High Risk
+CLM10537,27,Female,Life,229082.16,21730.78,4,0,25,Accident,High Risk
+CLM10538,43,Female,Health,7137.31,608.36,1,0,30,Medical,Low Risk
+CLM10539,71,Male,Vehicle,15530.17,1110.75,4,0,6,Accident,Low Risk
+CLM10540,89,Male,Vehicle,24794.72,2063.49,3,0,56,Accident,High Risk
+CLM10541,46,Female,Life,441327.41,12198.33,4,1,232,Natural Disaster,High Risk
+CLM10542,31,Male,Health,27526.77,1476.91,5,1,27,Natural Disaster,High Risk
+CLM10543,59,Female,Health,7179.4,526.18,3,0,9,Accident,Low Risk
+CLM10544,71,Male,Property,62214.35,2837.69,0,0,133,Medical,High Risk
+CLM10545,18,Male,Life,479271.54,14262.98,2,0,96,Natural Disaster,Low Risk
+CLM10546,52,Female,Life,150027.24,4711.7,0,0,14,Natural Disaster,Low Risk
+CLM10547,85,Male,Health,20868.11,2273.83,0,0,22,Natural Disaster,Low Risk
+CLM10548,20,Female,Property,88480.92,2929.85,0,0,31,Theft,Low Risk
+CLM10549,18,Female,Life,81966.84,7090.61,1,0,18,Medical,High Risk
+CLM10550,68,Female,Life,339543.03,9560.16,0,0,52,Medical,Low Risk
+CLM10551,38,Female,Life,74611.93,1005.88,0,0,59,Accident,High Risk
+CLM10552,66,Male,Vehicle,21061.55,1980.75,5,1,19,Accident,High Risk
+CLM10553,33,Female,Life,270157.49,8127.28,1,0,31,Accident,Low Risk
+CLM10554,86,Male,Vehicle,22385.51,860.16,0,0,49,Natural Disaster,Low Risk
+CLM10555,21,Female,Vehicle,5236.8,634.27,2,0,41,Accident,Low Risk
+CLM10556,75,Male,Life,418854.65,42045.55,0,0,27,Medical,Low Risk
+CLM10557,86,Male,Health,48253.31,1413.34,0,0,2,Accident,Low Risk
+CLM10558,47,Male,Vehicle,12583.54,906.11,2,0,34,Accident,Low Risk
+CLM10559,64,Female,Life,273534.54,23765.42,2,0,42,Theft,High Risk
+CLM10560,47,Male,Property,39346.32,2785.77,1,0,52,Medical,Low Risk
+CLM10561,83,Male,Property,91470.58,2536.62,0,0,52,Theft,High Risk
+CLM10562,47,Female,Vehicle,5712.82,991.22,3,0,254,Natural Disaster,Low Risk
+CLM10563,44,Female,Property,54211.46,847.6,2,0,18,Medical,Low Risk
+CLM10564,40,Male,Vehicle,6158.64,532.61,0,0,4,Accident,Low Risk
+CLM10565,35,Female,Health,31713.33,1839.31,1,0,37,Theft,Low Risk
+CLM10566,63,Female,Vehicle,1021.68,452.57,1,0,28,Theft,Low Risk
+CLM10567,56,Female,Property,65523.16,6237.35,0,0,20,Accident,Low Risk
+CLM10568,72,Male,Health,9063.74,892.73,2,0,37,Theft,Low Risk
+CLM10569,84,Female,Property,34112.02,3780.99,0,0,0,Natural Disaster,Low Risk
+CLM10570,46,Female,Life,85382.02,3596.01,5,0,54,Accident,High Risk
+CLM10571,77,Male,Vehicle,27826.87,1336.62,2,0,218,Natural Disaster,Low Risk
+CLM10572,43,Male,Property,66760.76,5238.63,0,0,17,Natural Disaster,Low Risk
+CLM10573,61,Female,Life,453889.55,41755.96,4,0,55,Natural Disaster,High Risk
+CLM10574,47,Male,Health,47102.94,1573.34,0,0,38,Accident,Low Risk
+CLM10575,28,Male,Health,1686.71,575.83,2,0,4,Accident,Low Risk
+CLM10576,37,Male,Health,4538.45,626.24,2,0,56,Accident,Low Risk
+CLM10577,29,Female,Health,5105.76,751.57,1,0,56,Natural Disaster,Low Risk
+CLM10578,70,Female,Property,24620.77,2321.51,1,0,249,Accident,Low Risk
+CLM10579,64,Female,Health,5992.7,414.99,5,0,48,Theft,Low Risk
+CLM10580,58,Female,Life,411012.13,18622.77,0,0,34,Theft,High Risk
+CLM10581,66,Male,Health,10391.89,792.34,0,0,29,Natural Disaster,Low Risk
+CLM10582,73,Male,Vehicle,15219.06,1744.82,1,0,53,Natural Disaster,Low Risk
+CLM10583,51,Female,Health,6234.23,676.07,0,0,29,Medical,Low Risk
+CLM10584,24,Female,Property,56690.32,3624.43,1,0,35,Medical,High Risk
+CLM10585,37,Male,Vehicle,3222.05,419.8,1,0,54,Theft,Low Risk
+CLM10586,62,Female,Property,9966.51,1043.66,3,0,57,Natural Disaster,Low Risk
+CLM10587,75,Female,Life,474694.87,46715.57,4,1,25,Natural Disaster,High Risk
+CLM10588,81,Female,Life,377886.66,21919.19,0,0,10,Medical,High Risk
+CLM10589,36,Female,Property,32044.1,1807.25,1,0,1,Medical,Low Risk
+CLM10590,21,Female,Vehicle,4248.34,680.42,1,0,7,Accident,Low Risk
+CLM10591,31,Female,Vehicle,19127.66,2152.04,1,0,13,Natural Disaster,Low Risk
+CLM10592,56,Male,Health,37535.79,4105.04,1,0,31,Accident,Low Risk
+CLM10593,52,Male,Health,7966.89,467.88,0,0,33,Theft,Low Risk
+CLM10594,84,Female,Life,307255.5,12633.11,1,0,29,Medical,Low Risk
+CLM10595,44,Female,Life,363844.23,25100.87,4,1,0,Medical,High Risk
+CLM10596,74,Male,Life,324916.87,3743.85,1,0,51,Medical,Low Risk
+CLM10597,41,Female,Vehicle,26773.82,2133.86,4,1,7,Natural Disaster,High Risk
+CLM10598,43,Male,Health,40124.22,3131.32,0,0,13,Theft,Low Risk
+CLM10599,45,Male,Property,52610.46,2832.08,0,0,39,Natural Disaster,Low Risk
+CLM10600,40,Male,Property,14010.67,1222.43,2,0,47,Accident,Low Risk
+CLM10601,36,Male,Property,32280.65,1421.24,0,1,27,Natural Disaster,High Risk
+CLM10602,50,Female,Vehicle,14716.73,1011.72,1,0,11,Natural Disaster,Low Risk
+CLM10603,19,Male,Property,11234.48,1004.2,2,0,59,Theft,Low Risk
+CLM10604,36,Female,Property,10932.21,764.86,0,0,7,Theft,Low Risk
+CLM10605,88,Male,Health,49638.65,3833.71,2,0,33,Natural Disaster,Low Risk
+CLM10606,65,Female,Property,51100.34,4341.58,1,0,39,Natural Disaster,Low Risk
+CLM10607,64,Female,Life,377790.12,14774.58,0,0,57,Theft,High Risk
+CLM10608,23,Female,Property,53403.34,3400.84,0,0,48,Natural Disaster,Low Risk
+CLM10609,66,Male,Property,41704.97,1688.8,0,0,0,Medical,Low Risk
+CLM10610,47,Female,Life,97348.8,7215.49,3,0,6,Natural Disaster,Low Risk
+CLM10611,81,Male,Property,54229.54,1053.15,4,0,40,Accident,High Risk
+CLM10612,72,Male,Life,431816.99,39845.91,1,0,59,Natural Disaster,Low Risk
+CLM10613,59,Female,Health,17580.03,2120.87,0,1,20,Accident,High Risk
+CLM10614,71,Male,Health,26972.56,535.97,1,0,2,Natural Disaster,Low Risk
+CLM10615,25,Male,Life,387572.37,28558.85,0,0,47,Medical,Low Risk
+CLM10616,81,Male,Vehicle,6901.82,735.42,3,0,37,Accident,High Risk
+CLM10617,34,Male,Health,16239.34,1867.18,2,0,5,Natural Disaster,Low Risk
+CLM10618,52,Female,Vehicle,18015.7,739.06,0,0,25,Natural Disaster,Low Risk
+CLM10619,37,Male,Property,15900.49,651.33,0,1,58,Theft,High Risk
+CLM10620,56,Male,Vehicle,29984.57,2251.79,0,0,49,Accident,Low Risk
+CLM10621,73,Male,Vehicle,18847.44,993.11,0,0,43,Natural Disaster,Low Risk
+CLM10622,27,Male,Life,366046.24,31970.52,0,0,22,Natural Disaster,Low Risk
+CLM10623,79,Male,Vehicle,22859.28,1824.31,2,0,2,Natural Disaster,Low Risk
+CLM10624,81,Male,Property,23509.85,1754.9,0,0,48,Accident,Low Risk
+CLM10625,18,Male,Life,249665.65,22788.93,0,0,28,Accident,Low Risk
+CLM10626,88,Female,Life,54486.16,1383.58,2,0,22,Accident,Low Risk
+CLM10627,48,Male,Life,333750.21,25966.39,1,0,3,Theft,Low Risk
+CLM10628,33,Male,Health,45479.79,3836.07,0,0,36,Theft,Low Risk
+CLM10629,43,Male,Health,13267.58,1387.2,1,0,57,Accident,Low Risk
+CLM10630,54,Male,Life,283559.76,28205.31,2,0,9,Accident,Low Risk
+CLM10631,82,Female,Property,77295.57,5979.63,0,0,36,Accident,Low Risk
+CLM10632,42,Female,Property,69264.85,2304.16,0,0,54,Natural Disaster,Low Risk
+CLM10633,73,Female,Health,4816.07,822.54,0,0,23,Natural Disaster,Low Risk
+CLM10634,83,Male,Vehicle,3511.97,510.75,1,1,25,Accident,Low Risk
+CLM10635,80,Male,Vehicle,12319.45,1242.77,2,0,39,Accident,Low Risk
+CLM10636,81,Male,Health,26641.03,697.96,1,0,42,Natural Disaster,Low Risk
+CLM10637,23,Male,Vehicle,16382.3,1477.11,1,0,23,Accident,Low Risk
+CLM10638,87,Female,Property,56378.57,4884.88,3,0,41,Natural Disaster,High Risk
+CLM10639,50,Male,Vehicle,28488.04,745.14,1,0,9,Theft,Low Risk
+CLM10640,32,Male,Property,51986.72,4913.28,1,0,9,Accident,Low Risk
+CLM10641,19,Female,Life,238085.83,7991.56,0,0,33,Natural Disaster,High Risk
+CLM10642,19,Male,Life,408184.29,15443.42,4,0,32,Medical,High Risk
+CLM10643,43,Female,Life,167462.78,15274.75,0,0,87,Medical,High Risk
+CLM10644,46,Male,Property,11909.94,1153.15,2,0,31,Theft,Low Risk
+CLM10645,19,Male,Vehicle,1720.93,208.7,1,0,0,Accident,Low Risk
+CLM10646,57,Male,Life,274189.42,13754.23,0,1,160,Natural Disaster,High Risk
+CLM10647,18,Male,Health,44553.9,3549.88,1,0,197,Theft,Low Risk
+CLM10648,47,Male,Life,51847.79,836.52,0,0,12,Theft,Low Risk
+CLM10649,65,Male,Vehicle,4284.06,707.42,1,0,20,Natural Disaster,Low Risk
+CLM10650,32,Male,Health,36521.63,1047.86,1,0,43,Accident,Low Risk
+CLM10651,68,Female,Vehicle,2870.52,597.57,1,0,52,Theft,Low Risk
+CLM10652,53,Female,Health,43631.22,3100.07,1,0,197,Theft,Low Risk
+CLM10653,18,Male,Health,25653.54,1377.67,3,0,59,Accident,High Risk
+CLM10654,78,Female,Vehicle,4623.74,465.92,0,0,22,Natural Disaster,Low Risk
+CLM10655,78,Male,Life,409861.34,31646.53,0,0,53,Medical,High Risk
+CLM10656,19,Male,Health,12542.73,1621.88,2,0,9,Theft,Low Risk
+CLM10657,33,Female,Health,20845.05,2091.68,1,0,45,Natural Disaster,Low Risk
+CLM10658,55,Male,Property,20142.51,2422.18,0,0,25,Theft,Low Risk
+CLM10659,85,Male,Health,20661.38,2069.42,0,0,232,Medical,Low Risk
+CLM10660,88,Female,Life,459052.51,44291.48,1,0,12,Theft,High Risk
+CLM10661,52,Male,Health,36909.08,1717.69,0,0,37,Medical,Low Risk
+CLM10662,45,Male,Health,1479.19,339.06,3,1,13,Accident,High Risk
+CLM10663,58,Male,Health,46570.26,2370.05,3,0,41,Theft,High Risk
+CLM10664,47,Male,Property,69653.85,6432.03,2,0,21,Accident,Low Risk
+CLM10665,38,Female,Health,3852.66,719.34,0,0,3,Medical,Low Risk
+CLM10666,64,Female,Life,439710.44,11650.7,3,0,8,Accident,High Risk
+CLM10667,56,Female,Vehicle,4733.88,741.14,0,0,9,Accident,Low Risk
+CLM10668,75,Male,Health,27346.49,414.02,0,0,12,Natural Disaster,Low Risk
+CLM10669,20,Male,Life,449393.86,30695.67,0,0,48,Accident,Low Risk
+CLM10670,47,Male,Life,338949.61,12635.3,3,0,14,Medical,High Risk
+CLM10671,63,Female,Health,27784.13,1767.68,3,0,56,Theft,Low Risk
+CLM10672,37,Male,Life,208711.0,8494.13,3,1,7,Medical,High Risk
+CLM10673,82,Female,Property,12921.01,1540.86,2,0,48,Accident,Low Risk
+CLM10674,74,Male,Property,83968.35,6874.53,0,0,36,Theft,Low Risk
+CLM10675,58,Male,Vehicle,6554.12,809.25,0,0,50,Accident,Low Risk
+CLM10676,55,Female,Health,16176.93,1792.23,1,0,43,Accident,Low Risk
+CLM10677,29,Female,Vehicle,29907.42,1157.93,0,0,10,Theft,Low Risk
+CLM10678,67,Female,Property,41390.59,3239.62,0,0,7,Accident,Low Risk
+CLM10679,67,Female,Health,23301.09,1660.4,1,1,46,Theft,High Risk
+CLM10680,41,Male,Property,37092.62,1863.45,4,1,22,Natural Disaster,High Risk
+CLM10681,85,Female,Property,65553.44,4335.33,0,0,14,Theft,Low Risk
+CLM10682,36,Female,Health,33045.72,2394.14,0,0,51,Accident,Low Risk
+CLM10683,80,Male,Vehicle,25312.23,1953.7,5,0,54,Medical,Low Risk
+CLM10684,48,Male,Vehicle,20258.92,1653.16,2,0,2,Natural Disaster,Low Risk
+CLM10685,85,Male,Health,1529.12,257.07,2,0,21,Theft,Low Risk
+CLM10686,50,Female,Vehicle,9066.17,833.49,0,0,5,Natural Disaster,Low Risk
+CLM10687,74,Male,Health,49221.83,4163.5,2,0,30,Medical,Low Risk
+CLM10688,52,Male,Life,451040.36,25167.69,0,0,27,Theft,Low Risk
+CLM10689,36,Male,Vehicle,14392.39,883.6,2,0,27,Natural Disaster,Low Risk
+CLM10690,70,Female,Property,48534.06,1828.3,1,0,18,Theft,Low Risk
+CLM10691,45,Female,Life,255244.79,11919.99,5,0,3,Natural Disaster,Low Risk
+CLM10692,84,Male,Vehicle,12017.8,1005.1,1,0,53,Medical,Low Risk
+CLM10693,58,Male,Property,49223.04,2060.32,1,0,37,Accident,Low Risk
+CLM10694,47,Male,Property,46668.09,3928.22,4,0,44,Theft,Low Risk
+CLM10695,86,Male,Health,46947.53,4802.43,0,0,44,Medical,Low Risk
+CLM10696,41,Male,Health,27773.13,1938.45,1,0,254,Natural Disaster,Low Risk
+CLM10697,72,Female,Vehicle,22856.73,2631.9,0,0,23,Theft,Low Risk
+CLM10698,56,Male,Property,20475.75,2143.25,4,0,9,Accident,Low Risk
+CLM10699,28,Male,Vehicle,24693.01,1386.13,2,0,26,Theft,Low Risk
+CLM10700,64,Female,Health,7181.5,310.48,0,0,16,Medical,Low Risk
+CLM10701,76,Female,Health,26847.3,2704.14,4,0,11,Medical,Low Risk
+CLM10702,23,Male,Health,25146.29,1106.49,0,0,28,Accident,Low Risk
+CLM10703,53,Male,Health,33828.53,760.11,2,0,91,Theft,Low Risk
+CLM10704,32,Male,Life,168805.78,2137.48,5,1,23,Theft,High Risk
+CLM10705,78,Male,Vehicle,24588.8,2254.4,0,0,30,Accident,Low Risk
+CLM10706,70,Male,Vehicle,29790.36,2867.59,0,0,10,Medical,Low Risk
+CLM10707,34,Male,Property,30438.56,1839.02,2,0,36,Natural Disaster,Low Risk
+CLM10708,21,Female,Life,493211.64,8676.91,0,0,54,Medical,High Risk
+CLM10709,60,Male,Vehicle,14923.91,947.81,1,0,15,Theft,Low Risk
+CLM10710,89,Male,Vehicle,18521.04,518.32,1,0,18,Natural Disaster,Low Risk
+CLM10711,78,Male,Vehicle,20935.67,960.41,5,0,185,Theft,High Risk
+CLM10712,64,Female,Life,382517.73,31952.1,0,0,132,Medical,Low Risk
+CLM10713,86,Male,Life,280926.51,15575.1,0,0,3,Medical,High Risk
+CLM10714,18,Male,Property,51099.28,3231.99,0,0,9,Natural Disaster,Low Risk
+CLM10715,70,Female,Property,57658.57,3705.79,0,0,22,Natural Disaster,High Risk
+CLM10716,81,Male,Vehicle,7100.79,544.44,0,0,302,Theft,Low Risk
+CLM10717,40,Female,Health,41845.13,1610.29,1,0,10,Natural Disaster,Low Risk
+CLM10718,77,Male,Health,48075.02,2365.94,3,0,58,Medical,High Risk
+CLM10719,29,Male,Property,63346.04,2965.62,0,0,24,Accident,Low Risk
+CLM10720,69,Female,Life,55744.44,5208.72,0,0,165,Medical,High Risk
+CLM10721,86,Female,Property,88957.39,8805.46,2,0,59,Medical,High Risk
+CLM10722,70,Male,Health,42665.57,1611.48,1,0,32,Theft,Low Risk
+CLM10723,21,Male,Vehicle,26628.27,1786.26,0,0,55,Natural Disaster,Low Risk
+CLM10724,79,Male,Life,297170.82,23400.47,0,0,41,Medical,Low Risk
+CLM10725,30,Female,Property,30862.85,1810.07,0,0,20,Medical,Low Risk
+CLM10726,89,Female,Health,20290.41,677.78,1,0,41,Accident,Low Risk
+CLM10727,20,Male,Property,59404.87,3712.61,1,0,56,Accident,High Risk
+CLM10728,21,Female,Life,414771.73,31969.82,0,0,54,Natural Disaster,High Risk
+CLM10729,31,Male,Vehicle,9643.14,643.59,4,0,32,Accident,Low Risk
+CLM10730,39,Male,Health,6887.8,770.3,1,0,58,Medical,Low Risk
+CLM10731,76,Female,Vehicle,29929.9,3112.62,0,0,57,Medical,Low Risk
+CLM10732,67,Male,Property,90883.32,3895.86,0,0,37,Theft,Low Risk
+CLM10733,49,Female,Vehicle,8113.1,636.76,2,0,24,Medical,Low Risk
+CLM10734,22,Female,Health,36746.33,1888.42,0,0,17,Natural Disaster,Low Risk
+CLM10735,73,Female,Vehicle,29524.32,2186.06,0,0,22,Theft,Low Risk
+CLM10736,33,Male,Vehicle,11317.45,732.41,1,0,48,Theft,Low Risk
+CLM10737,25,Male,Health,37912.33,3191.06,1,0,6,Natural Disaster,Low Risk
+CLM10738,86,Male,Health,16513.3,1275.28,2,0,36,Accident,Low Risk
+CLM10739,89,Male,Vehicle,16011.27,1392.57,5,1,2,Medical,High Risk
+CLM10740,52,Male,Life,382829.76,21238.47,0,0,39,Theft,Low Risk
+CLM10741,20,Female,Property,93919.45,6936.97,2,0,19,Accident,Low Risk
+CLM10742,31,Female,Life,408104.03,16679.58,1,1,243,Natural Disaster,High Risk
+CLM10743,54,Male,Property,71049.55,1975.32,0,0,51,Medical,Low Risk
+CLM10744,83,Female,Vehicle,3787.65,656.08,1,0,3,Accident,Low Risk
+CLM10745,76,Male,Life,310925.41,8026.65,0,0,50,Accident,High Risk
+CLM10746,83,Male,Life,383737.02,14654.41,0,0,40,Theft,High Risk
+CLM10747,78,Female,Vehicle,17224.78,327.16,1,0,56,Theft,Low Risk
+CLM10748,49,Female,Property,84838.03,6031.88,1,0,28,Theft,Low Risk
+CLM10749,88,Female,Property,46548.02,4725.6,0,0,46,Theft,Low Risk
+CLM10750,40,Male,Vehicle,27802.33,671.62,1,0,3,Natural Disaster,Low Risk
+CLM10751,33,Male,Life,254240.88,18112.84,0,0,27,Medical,Low Risk
+CLM10752,44,Male,Vehicle,7469.61,254.05,1,0,36,Theft,Low Risk
+CLM10753,34,Female,Property,72950.37,4826.64,4,0,192,Medical,High Risk
+CLM10754,21,Female,Vehicle,16318.57,1318.26,4,0,40,Theft,Low Risk
+CLM10755,73,Male,Health,31112.51,2938.89,0,1,29,Natural Disaster,High Risk
+CLM10756,32,Female,Life,280535.16,6548.34,1,0,42,Theft,Low Risk
+CLM10757,49,Female,Vehicle,13471.61,1547.4,1,0,6,Natural Disaster,Low Risk
+CLM10758,34,Female,Property,56641.58,4154.03,1,1,37,Theft,High Risk
+CLM10759,48,Male,Vehicle,22224.32,1467.89,1,0,48,Natural Disaster,Low Risk
+CLM10760,52,Female,Health,25040.07,2545.61,1,0,51,Accident,Low Risk
+CLM10761,61,Male,Property,34408.13,1673.7,0,0,55,Natural Disaster,Low Risk
+CLM10762,32,Male,Property,5223.01,539.54,0,0,51,Natural Disaster,Low Risk
+CLM10763,37,Male,Property,34840.43,2477.04,1,0,19,Accident,Low Risk
+CLM10764,23,Male,Property,15747.91,1154.78,3,1,47,Accident,High Risk
+CLM10765,73,Female,Health,31622.24,2863.35,0,0,73,Natural Disaster,Low Risk
+CLM10766,83,Male,Life,499883.57,16384.48,1,0,38,Accident,High Risk
+CLM10767,43,Male,Property,13016.86,541.41,0,0,48,Accident,Low Risk
+CLM10768,58,Female,Health,35749.85,1186.49,2,0,19,Accident,Low Risk
+CLM10769,71,Female,Health,7712.13,1019.19,1,0,1,Medical,Low Risk
+CLM10770,68,Female,Property,91301.57,2159.65,2,0,25,Natural Disaster,Low Risk
+CLM10771,19,Female,Property,8772.56,1029.73,1,0,53,Medical,Low Risk
+CLM10772,83,Female,Property,30840.24,2497.5,0,0,9,Medical,Low Risk
+CLM10773,78,Male,Life,419742.2,6788.76,0,0,24,Theft,High Risk
+CLM10774,20,Female,Life,434799.24,18395.22,5,1,14,Accident,High Risk
+CLM10775,52,Male,Life,369944.57,18462.46,2,0,12,Natural Disaster,Low Risk
+CLM10776,87,Female,Life,339248.15,13844.13,0,0,46,Accident,High Risk
+CLM10777,51,Male,Vehicle,3006.05,332.67,1,0,9,Accident,Low Risk
+CLM10778,74,Male,Property,18475.22,682.46,2,0,32,Theft,Low Risk
+CLM10779,23,Female,Property,35417.69,3529.56,2,0,51,Theft,Low Risk
+CLM10780,31,Male,Life,479478.61,44576.75,1,0,25,Theft,Low Risk
+CLM10781,59,Male,Vehicle,12838.89,844.91,0,0,24,Natural Disaster,Low Risk
+CLM10782,28,Male,Health,2412.98,240.7,0,0,35,Accident,Low Risk
+CLM10783,79,Male,Life,356657.28,5864.51,5,1,41,Accident,High Risk
+CLM10784,68,Female,Vehicle,16983.1,1398.81,0,0,46,Natural Disaster,Low Risk
+CLM10785,65,Female,Life,367947.41,20670.13,0,0,58,Theft,High Risk
+CLM10786,58,Male,Property,13668.91,582.96,0,0,0,Theft,Low Risk
+CLM10787,74,Female,Health,12564.39,1067.84,0,1,178,Accident,High Risk
+CLM10788,27,Female,Life,117170.61,4187.55,1,0,59,Theft,Low Risk
+CLM10789,89,Female,Health,15189.55,1067.32,0,0,17,Theft,Low Risk
+CLM10790,81,Male,Property,49420.95,4810.17,5,0,11,Medical,Low Risk
+CLM10791,29,Male,Vehicle,27933.15,2466.59,0,0,25,Theft,Low Risk
+CLM10792,76,Male,Property,60986.51,3673.45,1,0,28,Medical,High Risk
+CLM10793,86,Female,Life,72118.68,986.91,2,0,53,Natural Disaster,High Risk
+CLM10794,54,Male,Health,2989.2,551.36,3,0,57,Accident,Low Risk
+CLM10795,25,Female,Health,5194.38,541.07,0,0,9,Medical,Low Risk
+CLM10796,65,Male,Property,10958.61,1211.78,0,0,35,Natural Disaster,Low Risk
+CLM10797,26,Male,Life,375318.8,31544.98,0,0,325,Accident,Low Risk
+CLM10798,37,Female,Life,81912.29,2623.64,3,0,39,Theft,High Risk
+CLM10799,26,Female,Life,158118.16,3690.19,2,0,15,Natural Disaster,Low Risk
+CLM10800,59,Male,Vehicle,19558.74,2188.19,4,1,57,Natural Disaster,High Risk
+CLM10801,54,Female,Health,41440.11,1345.35,3,0,5,Accident,Low Risk
+CLM10802,59,Female,Health,23660.38,2534.88,1,0,42,Accident,Low Risk
+CLM10803,50,Male,Life,415023.17,5663.48,1,0,42,Theft,Low Risk
+CLM10804,29,Female,Vehicle,11092.78,1289.8,1,0,23,Medical,Low Risk
+CLM10805,58,Female,Health,31298.97,794.11,1,0,14,Theft,Low Risk
+CLM10806,47,Female,Vehicle,9043.06,661.8,0,0,23,Medical,Low Risk
+CLM10807,39,Female,Life,199958.78,12844.29,1,0,18,Natural Disaster,Low Risk
+CLM10808,26,Female,Property,59877.84,2737.22,3,0,53,Accident,High Risk
+CLM10809,46,Female,Vehicle,1107.87,339.05,0,0,50,Natural Disaster,Low Risk
+CLM10810,77,Female,Life,449475.98,17532.74,2,0,19,Medical,Low Risk
+CLM10811,75,Female,Life,102595.44,10352.42,0,0,71,Medical,High Risk
+CLM10812,45,Female,Health,23054.67,632.76,1,0,315,Accident,Low Risk
+CLM10813,31,Female,Life,102864.15,8671.57,0,0,54,Medical,High Risk
+CLM10814,73,Male,Health,10693.4,1100.11,2,0,39,Natural Disaster,Low Risk
+CLM10815,70,Male,Property,54417.17,2094.72,0,0,232,Medical,Low Risk
+CLM10816,76,Male,Vehicle,3470.81,599.24,5,1,12,Medical,High Risk
+CLM10817,61,Male,Property,77583.5,1375.49,0,0,16,Accident,Low Risk
+CLM10818,44,Male,Life,199889.21,9828.18,0,0,50,Theft,Low Risk
+CLM10819,76,Female,Health,6701.07,771.51,4,0,6,Accident,High Risk
+CLM10820,65,Male,Health,24686.21,1074.9,0,0,54,Theft,Low Risk
+CLM10821,25,Male,Property,79228.84,5995.48,4,1,48,Accident,High Risk
+CLM10822,74,Female,Property,21781.09,1259.55,2,0,19,Theft,Low Risk
+CLM10823,53,Female,Life,411370.49,18202.74,0,0,44,Accident,High Risk
+CLM10824,38,Male,Vehicle,29792.09,2050.17,0,0,40,Natural Disaster,Low Risk
+CLM10825,59,Female,Health,16414.5,943.74,1,0,1,Theft,Low Risk
+CLM10826,38,Female,Property,36236.17,2730.18,0,0,2,Medical,Low Risk
+CLM10827,86,Male,Property,34419.79,1188.2,1,0,44,Accident,Low Risk
+CLM10828,82,Male,Health,26505.51,2095.81,2,0,9,Accident,Low Risk
+CLM10829,73,Male,Vehicle,26447.19,1724.13,5,1,7,Theft,High Risk
+CLM10830,44,Male,Property,66182.51,1708.52,1,0,80,Medical,High Risk
+CLM10831,89,Male,Vehicle,20552.37,729.14,1,0,42,Natural Disaster,Low Risk
+CLM10832,27,Male,Property,89275.12,4021.82,1,0,8,Theft,Low Risk
+CLM10833,18,Female,Vehicle,7198.36,464.68,0,0,33,Medical,Low Risk
+CLM10834,81,Female,Property,42506.07,4366.1,5,1,52,Medical,High Risk
+CLM10835,63,Male,Life,149485.49,8707.42,0,0,30,Medical,Low Risk
+CLM10836,45,Male,Health,45315.67,5021.96,3,0,49,Medical,Low Risk
+CLM10837,56,Female,Health,21972.95,1727.05,0,0,16,Natural Disaster,Low Risk
+CLM10838,89,Female,Life,308030.73,29235.63,0,0,21,Accident,Low Risk
+CLM10839,57,Male,Vehicle,15676.41,1601.84,2,0,38,Accident,Low Risk
+CLM10840,54,Female,Health,41359.3,3335.24,2,0,43,Accident,Low Risk
+CLM10841,77,Male,Health,8495.13,1005.59,5,0,38,Accident,High Risk
+CLM10842,52,Male,Vehicle,13523.47,507.5,1,0,2,Accident,Low Risk
+CLM10843,81,Female,Health,9505.04,1356.28,0,0,24,Natural Disaster,Low Risk
+CLM10844,64,Female,Health,40494.57,1527.33,1,0,36,Theft,Low Risk
+CLM10845,76,Female,Vehicle,12930.92,1382.81,5,0,43,Theft,High Risk
+CLM10846,69,Female,Vehicle,5743.1,563.62,0,0,245,Accident,Low Risk
+CLM10847,69,Female,Life,60416.05,3618.14,0,0,43,Medical,High Risk
+CLM10848,67,Female,Vehicle,22831.69,995.3,1,0,15,Medical,Low Risk
+CLM10849,37,Male,Property,38937.99,2648.52,0,0,47,Natural Disaster,Low Risk
+CLM10850,71,Female,Vehicle,13084.15,898.4,3,0,50,Natural Disaster,Low Risk
+CLM10851,47,Male,Health,18262.82,997.92,0,0,35,Natural Disaster,Low Risk
+CLM10852,59,Female,Vehicle,13731.85,660.83,1,1,8,Theft,High Risk
+CLM10853,36,Male,Life,97143.14,5138.2,3,0,102,Accident,High Risk
+CLM10854,80,Female,Property,47944.16,3819.7,2,0,328,Natural Disaster,Low Risk
+CLM10855,64,Male,Property,25358.51,1866.15,0,0,15,Medical,Low Risk
+CLM10856,23,Female,Health,16237.68,517.01,3,0,31,Medical,High Risk
+CLM10857,50,Male,Health,47224.51,2488.96,2,0,50,Theft,Low Risk
+CLM10858,47,Male,Life,100212.04,2605.91,0,1,5,Medical,High Risk
+CLM10859,78,Female,Life,249702.61,15636.77,0,0,15,Natural Disaster,Low Risk
+CLM10860,31,Female,Health,7049.72,949.8,0,0,37,Theft,Low Risk
+CLM10861,77,Male,Property,34866.58,3097.3,0,0,12,Medical,Low Risk
+CLM10862,79,Male,Property,5505.8,570.62,0,0,4,Theft,Low Risk
+CLM10863,70,Male,Health,33414.69,2508.74,1,0,48,Natural Disaster,Low Risk
+CLM10864,82,Female,Vehicle,8694.08,596.11,1,0,7,Natural Disaster,Low Risk
+CLM10865,28,Male,Life,218083.85,16392.63,2,0,34,Natural Disaster,High Risk
+CLM10866,81,Male,Life,264455.57,9997.18,0,0,12,Medical,Low Risk
+CLM10867,78,Male,Health,42755.24,2892.14,1,0,4,Theft,Low Risk
+CLM10868,34,Male,Property,9966.26,456.7,0,0,45,Theft,Low Risk
+CLM10869,85,Female,Property,54175.7,2729.83,0,0,6,Theft,Low Risk
+CLM10870,43,Female,Property,84161.06,4670.31,0,0,12,Accident,Low Risk
+CLM10871,39,Female,Vehicle,13094.54,1209.17,1,0,25,Theft,Low Risk
+CLM10872,65,Male,Property,8874.58,670.57,5,1,45,Natural Disaster,High Risk
+CLM10873,87,Female,Vehicle,15645.81,352.13,3,0,36,Natural Disaster,High Risk
+CLM10874,81,Female,Property,73252.49,4300.27,4,0,44,Accident,High Risk
+CLM10875,22,Female,Life,68618.47,3139.95,0,0,39,Accident,High Risk
+CLM10876,77,Male,Property,82358.59,5084.14,1,0,38,Theft,High Risk
+CLM10877,82,Female,Health,25160.76,1234.81,3,0,47,Medical,High Risk
+CLM10878,79,Female,Property,66169.92,4141.0,0,0,38,Accident,High Risk
+CLM10879,76,Female,Life,472599.15,15673.47,2,0,9,Accident,High Risk
+CLM10880,60,Female,Property,35675.6,2248.97,1,0,54,Medical,Low Risk
+CLM10881,79,Male,Health,21050.64,1558.87,1,0,32,Medical,High Risk
+CLM10882,59,Male,Health,16594.49,847.26,0,0,13,Medical,Low Risk
+CLM10883,89,Male,Health,14995.7,957.74,0,0,36,Accident,Low Risk
+CLM10884,32,Male,Life,303406.97,3463.38,1,0,16,Accident,Low Risk
+CLM10885,86,Male,Health,49227.8,4465.3,1,0,56,Natural Disaster,Low Risk
+CLM10886,29,Female,Life,118869.17,6862.84,3,0,55,Natural Disaster,High Risk
+CLM10887,84,Female,Vehicle,23965.29,1960.72,4,0,31,Theft,High Risk
+CLM10888,41,Male,Property,28461.51,2661.75,1,0,12,Theft,Low Risk
+CLM10889,28,Female,Life,222777.0,17291.27,0,0,183,Medical,Low Risk
+CLM10890,23,Female,Property,37171.11,1060.63,0,0,46,Accident,Low Risk
+CLM10891,54,Male,Vehicle,9922.0,490.44,0,0,46,Theft,Low Risk
+CLM10892,55,Male,Property,78611.55,1985.29,1,0,14,Accident,Low Risk
+CLM10893,22,Male,Life,193173.47,6120.93,2,0,13,Accident,Low Risk
+CLM10894,21,Female,Life,293534.63,3693.8,1,0,47,Medical,High Risk
+CLM10895,21,Female,Life,231849.43,7245.24,1,0,20,Theft,High Risk
+CLM10896,74,Male,Health,1873.86,245.4,0,0,20,Medical,Low Risk
+CLM10897,39,Male,Property,38378.81,1538.61,2,0,51,Natural Disaster,Low Risk
+CLM10898,73,Male,Health,47429.16,2193.21,1,0,4,Natural Disaster,Low Risk
+CLM10899,55,Female,Property,71089.38,5886.9,2,0,4,Medical,Low Risk
+CLM10900,87,Female,Vehicle,14368.12,1331.86,3,0,25,Natural Disaster,High Risk
+CLM10901,70,Female,Life,232981.48,14280.48,3,0,52,Medical,High Risk
+CLM10902,76,Female,Vehicle,25776.03,2158.99,3,0,112,Natural Disaster,High Risk
+CLM10903,70,Female,Vehicle,17859.63,1610.31,0,0,7,Medical,Low Risk
+CLM10904,60,Male,Vehicle,27756.07,531.04,0,0,38,Theft,Low Risk
+CLM10905,88,Male,Health,29421.89,2337.64,1,0,26,Medical,Low Risk
+CLM10906,40,Female,Property,70258.1,2885.59,0,0,280,Medical,Low Risk
+CLM10907,66,Female,Property,49441.23,1149.04,0,0,105,Accident,Low Risk
+CLM10908,30,Female,Health,39082.11,1832.39,1,0,17,Natural Disaster,Low Risk
+CLM10909,62,Female,Health,35125.45,1031.16,1,0,55,Natural Disaster,Low Risk
+CLM10910,61,Male,Life,372228.37,14776.94,1,0,21,Medical,Low Risk
+CLM10911,42,Male,Health,15939.09,1710.16,2,0,3,Medical,Low Risk
+CLM10912,26,Female,Property,73549.77,3038.94,0,0,47,Natural Disaster,High Risk
+CLM10913,22,Female,Property,88623.92,3261.44,0,0,201,Theft,Low Risk
+CLM10914,88,Female,Life,276468.76,18849.59,2,0,27,Accident,Low Risk
+CLM10915,56,Female,Health,31164.99,1058.45,5,0,108,Theft,Low Risk
+CLM10916,84,Male,Life,295039.08,17215.45,2,0,10,Accident,Low Risk
+CLM10917,79,Female,Vehicle,15228.78,1909.31,0,0,12,Medical,Low Risk
+CLM10918,19,Male,Health,47504.4,1283.06,0,0,151,Accident,Low Risk
+CLM10919,65,Male,Health,10149.92,656.71,1,0,4,Theft,Low Risk
+CLM10920,57,Male,Property,71874.5,3128.81,4,0,19,Accident,High Risk
+CLM10921,25,Male,Property,28637.55,2374.59,0,0,35,Natural Disaster,Low Risk
+CLM10922,32,Female,Health,6017.33,214.02,0,0,17,Theft,Low Risk
+CLM10923,58,Male,Health,8517.46,535.41,1,0,23,Theft,Low Risk
+CLM10924,83,Female,Vehicle,22430.77,1230.7,0,0,9,Accident,Low Risk
+CLM10925,41,Male,Vehicle,2273.23,566.05,3,0,57,Medical,High Risk
+CLM10926,62,Female,Health,45266.98,1370.96,3,0,37,Medical,Low Risk
+CLM10927,64,Male,Life,463031.34,21085.56,3,0,218,Medical,High Risk
+CLM10928,36,Female,Health,34730.32,1734.34,0,0,244,Natural Disaster,Low Risk
+CLM10929,83,Female,Property,40756.82,3286.46,1,0,52,Accident,Low Risk
+CLM10930,25,Female,Vehicle,14878.93,1553.68,0,0,38,Theft,Low Risk
+CLM10931,53,Male,Property,8729.04,725.09,0,0,59,Natural Disaster,Low Risk
+CLM10932,87,Male,Property,41855.46,1280.21,1,0,29,Medical,Low Risk
+CLM10933,21,Male,Vehicle,24776.18,1763.2,0,0,272,Natural Disaster,Low Risk
+CLM10934,31,Male,Health,16634.67,1497.67,4,1,0,Accident,High Risk
+CLM10935,28,Male,Health,25605.94,2958.52,3,0,45,Accident,Low Risk
+CLM10936,34,Female,Life,151893.32,8390.03,0,0,35,Medical,Low Risk
+CLM10937,67,Female,Health,13771.04,574.36,1,0,15,Medical,Low Risk
+CLM10938,20,Male,Life,191108.81,16608.06,2,0,8,Theft,Low Risk
+CLM10939,61,Male,Health,41759.38,3135.43,2,0,40,Accident,Low Risk
+CLM10940,21,Female,Property,79059.76,5377.53,0,0,16,Accident,High Risk
+CLM10941,32,Female,Property,25382.87,2106.66,5,0,42,Accident,High Risk
+CLM10942,36,Male,Property,53868.37,1897.49,1,0,36,Theft,Low Risk
+CLM10943,67,Female,Health,5371.12,456.64,0,0,44,Medical,Low Risk
+CLM10944,62,Male,Vehicle,21648.85,2383.17,0,0,0,Theft,Low Risk
+CLM10945,85,Male,Vehicle,9839.58,663.03,0,0,55,Medical,Low Risk
+CLM10946,44,Female,Vehicle,26456.34,2194.67,1,0,14,Theft,Low Risk
+CLM10947,36,Male,Life,446975.03,27854.66,0,1,14,Accident,High Risk
+CLM10948,22,Female,Vehicle,4446.72,506.46,0,0,31,Natural Disaster,Low Risk
+CLM10949,82,Male,Health,5151.71,443.07,0,0,125,Theft,Low Risk
+CLM10950,64,Male,Vehicle,26211.23,1636.64,0,0,56,Accident,Low Risk
+CLM10951,54,Female,Property,91525.8,2567.79,1,0,31,Medical,High Risk
+CLM10952,42,Female,Vehicle,23578.35,2124.06,3,0,21,Medical,Low Risk
+CLM10953,48,Female,Property,22483.9,1210.48,0,0,27,Medical,Low Risk
+CLM10954,33,Male,Vehicle,17625.02,970.5,2,0,13,Accident,Low Risk
+CLM10955,84,Female,Health,1011.8,137.63,0,0,37,Theft,Low Risk
+CLM10956,75,Female,Vehicle,4553.06,244.23,1,0,302,Accident,Low Risk
+CLM10957,45,Female,Property,70254.18,5836.18,1,0,301,Natural Disaster,Low Risk
+CLM10958,47,Male,Health,5054.02,796.18,0,0,23,Medical,Low Risk
+CLM10959,85,Female,Vehicle,15831.66,1090.43,2,0,19,Medical,Low Risk
+CLM10960,78,Male,Health,39794.09,4314.12,2,0,23,Medical,Low Risk
+CLM10961,83,Male,Vehicle,4940.7,569.47,5,0,19,Theft,High Risk
+CLM10962,48,Male,Property,16802.49,1410.4,1,0,53,Medical,Low Risk
+CLM10963,81,Female,Property,47786.41,2164.63,3,0,16,Accident,Low Risk
+CLM10964,67,Male,Health,13262.07,1349.61,0,0,26,Natural Disaster,Low Risk
+CLM10965,61,Female,Life,393336.22,29176.9,1,1,305,Medical,High Risk
+CLM10966,55,Male,Health,48336.75,3511.12,4,1,58,Accident,High Risk
+CLM10967,39,Female,Health,25727.41,2862.68,4,1,4,Theft,High Risk
+CLM10968,25,Female,Health,49668.08,768.25,1,0,45,Natural Disaster,Low Risk
+CLM10969,68,Male,Property,43935.53,2805.9,1,0,33,Accident,Low Risk
+CLM10970,35,Female,Property,60403.54,2013.43,2,0,12,Natural Disaster,Low Risk
+CLM10971,31,Female,Vehicle,4741.12,623.84,1,0,1,Accident,Low Risk
+CLM10972,77,Male,Life,273660.64,3871.24,2,0,50,Medical,Low Risk
+CLM10973,44,Female,Life,222270.89,14395.99,0,0,51,Medical,Low Risk
+CLM10974,30,Male,Health,11352.97,842.98,1,0,33,Accident,Low Risk
+CLM10975,32,Male,Health,5617.91,284.0,1,0,70,Accident,Low Risk
+CLM10976,56,Female,Life,56845.89,5132.84,3,1,40,Natural Disaster,High Risk
+CLM10977,58,Female,Life,56511.79,1531.16,1,0,25,Medical,Low Risk
+CLM10978,72,Male,Life,216566.56,4010.19,3,0,51,Theft,High Risk
+CLM10979,65,Female,Life,408011.83,19586.48,0,0,56,Accident,Low Risk
+CLM10980,29,Male,Life,283463.74,4062.89,1,0,7,Theft,Low Risk
+CLM10981,68,Male,Property,77451.99,4104.74,2,0,38,Accident,Low Risk
+CLM10982,24,Female,Life,199888.5,4791.45,0,0,12,Medical,High Risk
+CLM10983,65,Male,Property,75644.72,7834.72,0,0,42,Medical,Low Risk
+CLM10984,68,Female,Life,121833.47,3883.59,0,1,20,Accident,High Risk
+CLM10985,83,Female,Health,48848.01,3867.77,0,0,14,Natural Disaster,Low Risk
+CLM10986,62,Female,Vehicle,19298.14,1383.32,1,0,19,Accident,Low Risk
+CLM10987,23,Female,Health,5108.44,478.27,0,0,41,Medical,Low Risk
+CLM10988,53,Male,Vehicle,15788.04,742.29,0,0,1,Accident,Low Risk
+CLM10989,73,Female,Vehicle,6343.69,393.51,0,0,44,Theft,Low Risk
+CLM10990,37,Male,Life,261987.28,12227.21,1,0,41,Theft,High Risk
+CLM10991,38,Male,Vehicle,13482.24,881.62,4,1,24,Theft,High Risk
+CLM10992,40,Female,Vehicle,20365.54,675.44,3,0,53,Natural Disaster,Low Risk
+CLM10993,39,Female,Property,75155.98,6415.64,0,0,55,Theft,High Risk
+CLM10994,29,Female,Health,45722.35,1506.36,4,0,52,Natural Disaster,High Risk
+CLM10995,66,Female,Vehicle,29242.46,874.33,0,0,17,Theft,Low Risk
+CLM10996,30,Female,Vehicle,21125.77,942.21,0,0,19,Theft,Low Risk
+CLM10997,74,Female,Life,457285.16,22754.66,4,0,3,Medical,Low Risk
+CLM10998,57,Male,Life,192809.34,13093.53,2,0,6,Medical,Low Risk
+CLM10999,27,Male,Life,214813.85,14120.55,0,0,40,Medical,Low Risk
+CLM11000,20,Male,Property,65134.95,1159.4,2,1,34,Medical,High Risk
+CLM11001,32,Male,Life,108705.04,11079.17,3,0,8,Accident,Low Risk
+CLM11002,89,Female,Life,431375.28,17503.58,1,0,55,Medical,Low Risk
+CLM11003,51,Male,Property,82690.59,5169.65,0,0,38,Accident,High Risk
+CLM11004,82,Female,Life,472094.54,40181.61,0,0,26,Natural Disaster,High Risk
+CLM11005,70,Male,Vehicle,25373.04,1428.18,0,0,35,Medical,Low Risk
+CLM11006,42,Female,Property,99048.16,7267.03,0,0,35,Medical,Low Risk
+CLM11007,23,Female,Life,169995.29,12913.58,2,0,65,Natural Disaster,High Risk
+CLM11008,68,Male,Property,90775.6,7845.06,0,0,40,Natural Disaster,High Risk
+CLM11009,89,Male,Life,122770.75,5573.21,0,0,33,Theft,High Risk
+CLM11010,64,Female,Life,357190.2,10554.81,4,0,47,Natural Disaster,High Risk
+CLM11011,60,Male,Vehicle,18589.25,793.8,3,0,17,Medical,Low Risk
+CLM11012,33,Male,Property,63155.79,1889.66,1,0,58,Medical,High Risk
+CLM11013,72,Male,Life,80238.91,3053.7,0,0,14,Accident,Low Risk
+CLM11014,86,Female,Health,27665.8,2501.07,1,0,151,Medical,Low Risk
+CLM11015,79,Female,Property,89750.64,1545.52,2,0,51,Theft,High Risk
+CLM11016,77,Male,Health,1155.54,448.2,3,0,47,Medical,Low Risk
+CLM11017,80,Male,Property,51986.03,1761.1,1,0,22,Natural Disaster,Low Risk
+CLM11018,44,Female,Vehicle,1580.68,330.7,0,0,30,Accident,Low Risk
+CLM11019,80,Male,Health,46497.58,3287.25,3,0,7,Medical,Low Risk
+CLM11020,63,Male,Life,343766.02,30140.77,0,0,7,Accident,Low Risk
+CLM11021,61,Male,Health,44886.91,3847.35,2,0,34,Accident,Low Risk
+CLM11022,23,Male,Property,36798.66,1349.01,0,0,41,Theft,Low Risk
+CLM11023,49,Female,Property,66630.96,6289.96,3,0,18,Accident,Low Risk
+CLM11024,54,Male,Life,280083.09,26670.22,0,0,122,Medical,Low Risk
+CLM11025,24,Female,Health,42069.8,2592.59,1,0,14,Accident,Low Risk
+CLM11026,19,Female,Life,481747.82,24467.77,2,0,0,Accident,High Risk
+CLM11027,45,Female,Vehicle,20937.56,1379.1,5,0,9,Natural Disaster,Low Risk
+CLM11028,69,Female,Life,293424.06,10579.45,3,0,16,Theft,Low Risk
+CLM11029,88,Female,Vehicle,8113.41,735.31,4,1,19,Medical,High Risk
+CLM11030,24,Female,Property,72001.94,4877.71,1,1,12,Theft,High Risk
+CLM11031,62,Female,Life,159485.87,12134.57,5,0,305,Medical,High Risk
+CLM11032,72,Female,Vehicle,11750.61,589.72,0,0,47,Natural Disaster,Low Risk
+CLM11033,66,Female,Life,346718.83,13751.09,0,0,290,Accident,High Risk
+CLM11034,21,Male,Property,28020.94,2184.44,1,0,58,Accident,Low Risk
+CLM11035,50,Female,Property,39594.52,3835.98,1,0,50,Medical,Low Risk
+CLM11036,28,Female,Property,51747.43,2696.71,0,0,55,Natural Disaster,Low Risk
+CLM11037,59,Female,Vehicle,17175.18,1340.2,1,0,45,Accident,Low Risk
+CLM11038,34,Female,Life,470541.64,46469.02,0,0,16,Accident,Low Risk
+CLM11039,22,Male,Property,24215.95,810.74,0,0,12,Theft,Low Risk
+CLM11040,51,Female,Health,45931.96,3769.97,0,0,19,Theft,Low Risk
+CLM11041,78,Female,Health,35656.13,2690.44,2,0,59,Accident,Low Risk
+CLM11042,39,Female,Health,42024.76,1149.83,5,1,43,Natural Disaster,High Risk
+CLM11043,42,Male,Property,84154.9,6516.81,3,0,7,Theft,High Risk
+CLM11044,21,Female,Property,95690.56,2443.22,1,1,58,Theft,High Risk
+CLM11045,38,Male,Property,96358.34,6142.89,0,0,5,Medical,Low Risk
+CLM11046,89,Female,Life,262115.65,23329.08,0,0,6,Theft,Low Risk
+CLM11047,22,Male,Life,252183.12,9180.05,2,0,18,Theft,Low Risk
+CLM11048,73,Male,Life,98665.67,5618.67,5,1,44,Medical,High Risk
+CLM11049,24,Female,Vehicle,27396.43,1303.69,1,0,50,Accident,Low Risk
+CLM11050,69,Female,Life,144760.64,9575.7,1,0,230,Accident,High Risk
+CLM11051,50,Male,Health,25236.28,1034.46,3,0,41,Medical,Low Risk
+CLM11052,21,Female,Life,235301.91,12652.75,3,0,10,Medical,High Risk
+CLM11053,61,Female,Vehicle,2746.39,404.81,1,0,29,Medical,Low Risk
+CLM11054,37,Male,Vehicle,25199.74,1536.04,3,0,54,Medical,Low Risk
+CLM11055,24,Female,Health,29980.08,2907.99,0,0,8,Theft,Low Risk
+CLM11056,66,Female,Property,83447.05,3937.78,5,1,31,Medical,High Risk
+CLM11057,83,Female,Health,26659.95,1672.76,3,0,57,Theft,High Risk
+CLM11058,72,Female,Vehicle,5074.42,493.2,0,0,57,Theft,Low Risk
+CLM11059,75,Female,Vehicle,23004.43,1611.88,1,0,239,Theft,Low Risk
+CLM11060,42,Male,Vehicle,20155.44,1756.2,1,0,31,Natural Disaster,Low Risk
+CLM11061,23,Male,Property,92164.21,5757.31,0,0,9,Natural Disaster,High Risk
+CLM11062,79,Male,Vehicle,11352.53,1007.65,5,0,54,Accident,High Risk
+CLM11063,64,Male,Vehicle,2465.09,301.05,2,1,3,Accident,High Risk
+CLM11064,87,Male,Property,51482.56,1505.84,1,0,12,Theft,High Risk
+CLM11065,55,Male,Vehicle,21173.57,2358.09,0,0,43,Theft,Low Risk
+CLM11066,49,Female,Health,2131.19,408.74,3,0,9,Accident,Low Risk
+CLM11067,39,Male,Health,32908.42,1117.59,0,0,48,Medical,Low Risk
+CLM11068,61,Male,Vehicle,2320.95,398.37,1,0,29,Natural Disaster,Low Risk
+CLM11069,53,Male,Life,396246.5,8123.2,2,0,183,Natural Disaster,Low Risk
+CLM11070,32,Male,Life,365084.4,31192.6,5,0,5,Natural Disaster,High Risk
+CLM11071,84,Male,Property,7290.62,969.76,1,0,2,Accident,Low Risk
+CLM11072,61,Male,Life,467697.56,27337.38,1,0,46,Accident,High Risk
+CLM11073,82,Female,Vehicle,15742.07,1185.49,2,0,5,Medical,Low Risk
+CLM11074,38,Female,Vehicle,27099.52,2443.81,2,0,48,Theft,Low Risk
+CLM11075,39,Male,Property,82168.13,2415.67,1,0,31,Natural Disaster,Low Risk
+CLM11076,46,Female,Health,47997.42,1122.24,4,1,9,Theft,High Risk
+CLM11077,68,Female,Property,13167.5,1518.29,4,0,51,Natural Disaster,Low Risk
+CLM11078,33,Male,Health,2508.54,650.68,2,0,7,Natural Disaster,Low Risk
+CLM11079,72,Male,Vehicle,18621.08,626.09,1,0,5,Accident,Low Risk
+CLM11080,22,Female,Life,473513.15,14671.21,1,0,272,Natural Disaster,Low Risk
+CLM11081,45,Female,Vehicle,5104.92,741.88,0,0,231,Accident,Low Risk
+CLM11082,67,Female,Vehicle,13797.35,480.05,2,0,7,Theft,Low Risk
+CLM11083,46,Male,Property,42419.04,1926.36,3,0,50,Natural Disaster,Low Risk
+CLM11084,28,Female,Vehicle,20457.81,540.95,1,0,27,Accident,Low Risk
+CLM11085,79,Female,Vehicle,18274.74,2272.97,1,1,29,Accident,High Risk
+CLM11086,49,Male,Health,20591.79,697.44,1,0,29,Natural Disaster,Low Risk
+CLM11087,71,Female,Vehicle,16453.82,1693.88,2,0,26,Natural Disaster,Low Risk
+CLM11088,52,Male,Life,417535.38,32990.48,0,0,37,Medical,Low Risk
+CLM11089,39,Male,Health,24279.54,1173.39,0,0,8,Accident,Low Risk
+CLM11090,71,Male,Vehicle,13552.68,696.03,0,1,19,Accident,High Risk
+CLM11091,38,Male,Life,381508.64,14147.15,0,0,34,Natural Disaster,Low Risk
+CLM11092,80,Male,Property,94973.32,6434.78,0,1,40,Natural Disaster,High Risk
+CLM11093,63,Female,Property,29883.28,2620.97,0,0,25,Natural Disaster,Low Risk
+CLM11094,35,Male,Property,43334.66,2155.67,0,0,19,Natural Disaster,Low Risk
+CLM11095,82,Female,Health,48252.55,2598.79,0,0,26,Natural Disaster,Low Risk
+CLM11096,89,Female,Vehicle,23306.42,1536.0,0,0,192,Accident,Low Risk
+CLM11097,43,Female,Life,172704.67,5145.21,2,0,1,Accident,Low Risk
+CLM11098,27,Female,Vehicle,20970.25,1035.12,0,0,30,Theft,Low Risk
+CLM11099,39,Male,Life,107024.75,8338.59,1,0,38,Theft,High Risk
+CLM11100,58,Female,Property,84758.84,5526.97,1,0,19,Theft,Low Risk
+CLM11101,58,Male,Health,5305.45,711.43,1,0,2,Theft,Low Risk
+CLM11102,50,Female,Property,55358.41,4941.47,0,0,3,Theft,Low Risk
+CLM11103,82,Female,Life,273128.01,26058.49,2,0,50,Natural Disaster,Low Risk
+CLM11104,84,Male,Vehicle,17071.62,1521.45,2,0,49,Medical,Low Risk
+CLM11105,31,Female,Life,240661.92,9521.39,3,0,27,Medical,Low Risk
+CLM11106,26,Female,Vehicle,28010.9,2207.77,1,0,259,Accident,Low Risk
+CLM11107,59,Female,Life,324440.93,24672.27,3,0,27,Accident,High Risk
+CLM11108,73,Male,Life,231229.57,9719.67,2,0,52,Accident,High Risk
+CLM11109,27,Male,Life,484313.32,26333.16,1,0,48,Medical,Low Risk
+CLM11110,32,Female,Property,56635.77,5304.1,0,0,38,Natural Disaster,High Risk
+CLM11111,46,Female,Vehicle,19203.31,997.69,2,0,35,Medical,Low Risk
+CLM11112,48,Female,Vehicle,17541.2,1513.9,3,0,48,Theft,Low Risk
+CLM11113,21,Female,Vehicle,16856.83,1532.31,1,0,57,Accident,Low Risk
+CLM11114,67,Male,Life,69350.97,1899.6,1,0,8,Theft,Low Risk
+CLM11115,54,Female,Property,83056.43,2184.12,1,0,92,Medical,High Risk
+CLM11116,60,Male,Vehicle,1113.95,200.9,2,0,6,Natural Disaster,Low Risk
+CLM11117,52,Female,Health,47448.93,3138.88,1,0,25,Natural Disaster,Low Risk
+CLM11118,86,Male,Vehicle,20249.24,1075.17,2,0,28,Theft,Low Risk
+CLM11119,81,Female,Property,53923.08,1359.73,2,0,39,Natural Disaster,Low Risk
+CLM11120,51,Male,Health,44671.87,3478.33,0,0,34,Medical,Low Risk
+CLM11121,49,Male,Vehicle,23787.68,1040.89,4,0,148,Theft,High Risk
+CLM11122,56,Female,Health,23460.47,1105.2,1,0,7,Natural Disaster,Low Risk
+CLM11123,79,Male,Health,31071.9,2347.35,1,0,53,Natural Disaster,Low Risk
+CLM11124,53,Male,Life,178783.81,6097.45,1,0,28,Theft,Low Risk
+CLM11125,77,Female,Property,99868.09,7076.03,2,0,50,Accident,High Risk
+CLM11126,68,Male,Health,2395.71,613.85,5,0,53,Accident,Low Risk
+CLM11127,83,Female,Vehicle,6752.34,735.34,3,0,43,Natural Disaster,High Risk
+CLM11128,79,Female,Vehicle,9108.24,967.81,4,0,30,Natural Disaster,Low Risk
+CLM11129,39,Female,Property,67806.2,2961.66,1,0,32,Medical,Low Risk
+CLM11130,34,Female,Vehicle,17270.53,976.97,2,0,52,Medical,Low Risk
+CLM11131,84,Female,Vehicle,1544.75,328.2,3,0,0,Theft,Low Risk
+CLM11132,80,Male,Health,24286.15,1608.46,1,0,55,Natural Disaster,Low Risk
+CLM11133,82,Female,Property,99470.95,1502.56,3,0,38,Medical,High Risk
+CLM11134,62,Female,Life,389512.16,24810.69,3,0,46,Accident,High Risk
+CLM11135,60,Male,Life,244272.6,16584.83,0,1,16,Medical,High Risk
+CLM11136,32,Female,Vehicle,5386.06,510.3,0,1,52,Medical,High Risk
+CLM11137,37,Female,Life,370486.28,7254.87,2,0,29,Accident,Low Risk
+CLM11138,34,Female,Vehicle,22250.3,1678.57,2,0,1,Medical,Low Risk
+CLM11139,57,Male,Vehicle,29801.95,3112.2,2,0,35,Theft,Low Risk
+CLM11140,40,Male,Vehicle,6623.91,358.83,1,0,20,Medical,Low Risk
+CLM11141,55,Male,Life,459282.79,12806.45,0,0,45,Natural Disaster,Low Risk
+CLM11142,75,Female,Vehicle,14392.39,1873.7,2,0,4,Theft,Low Risk
+CLM11143,49,Male,Vehicle,13366.78,1011.9,1,1,5,Natural Disaster,High Risk
+CLM11144,25,Male,Life,450187.13,40590.08,1,0,39,Natural Disaster,High Risk
+CLM11145,78,Male,Health,35665.28,2229.57,5,0,28,Theft,High Risk
+CLM11146,37,Female,Property,50045.22,2721.04,0,0,32,Accident,Low Risk
+CLM11147,26,Male,Health,12948.12,800.76,0,0,14,Accident,Low Risk
+CLM11148,72,Male,Health,12799.37,950.74,1,0,305,Accident,Low Risk
+CLM11149,56,Male,Property,99577.07,7733.45,0,0,28,Medical,High Risk
+CLM11150,65,Female,Vehicle,4779.52,216.38,1,0,37,Accident,Low Risk
+CLM11151,73,Male,Life,317125.95,18353.09,3,0,12,Medical,High Risk
+CLM11152,86,Female,Vehicle,13066.04,534.27,0,0,32,Theft,Low Risk
+CLM11153,61,Female,Health,8662.31,727.68,0,0,2,Accident,Low Risk
+CLM11154,27,Female,Health,26039.23,2889.07,3,0,3,Accident,Low Risk
+CLM11155,66,Male,Vehicle,8136.87,1028.06,0,0,16,Theft,Low Risk
+CLM11156,86,Female,Health,40567.62,2988.92,0,0,53,Medical,Low Risk
+CLM11157,22,Male,Health,42049.2,3361.1,0,0,38,Theft,Low Risk
+CLM11158,42,Female,Vehicle,26877.82,2301.66,0,0,40,Theft,Low Risk
+CLM11159,60,Male,Vehicle,24813.12,1199.74,0,0,22,Theft,Low Risk
+CLM11160,19,Female,Vehicle,12606.35,1222.59,5,1,283,Theft,High Risk
+CLM11161,18,Female,Property,25592.57,585.37,2,0,22,Theft,Low Risk
+CLM11162,49,Male,Property,85218.53,4719.42,0,0,47,Theft,Low Risk
+CLM11163,35,Male,Property,90418.8,7121.0,1,0,35,Theft,Low Risk
+CLM11164,39,Female,Vehicle,23996.82,1848.52,4,0,17,Natural Disaster,Low Risk
+CLM11165,56,Male,Health,20811.31,2023.36,1,1,277,Natural Disaster,Low Risk
+CLM11166,34,Male,Vehicle,7120.11,334.4,1,0,9,Accident,Low Risk
+CLM11167,52,Female,Health,10139.04,712.31,2,0,20,Theft,Low Risk
+CLM11168,18,Female,Life,244060.61,17745.62,3,0,41,Medical,High Risk
+CLM11169,67,Male,Vehicle,14718.02,1625.19,2,0,5,Accident,Low Risk
+CLM11170,36,Male,Life,283084.23,8931.79,1,0,33,Accident,Low Risk
+CLM11171,55,Male,Property,77471.27,5154.77,3,0,9,Theft,High Risk
+CLM11172,38,Male,Health,23204.68,1041.36,2,0,5,Accident,Low Risk
+CLM11173,45,Male,Vehicle,3251.79,308.74,0,0,2,Theft,Low Risk
+CLM11174,78,Female,Health,19467.86,475.72,0,0,38,Theft,Low Risk
+CLM11175,76,Male,Life,67099.03,4621.64,0,0,21,Theft,Low Risk
+CLM11176,54,Male,Property,72841.55,5681.74,1,0,6,Theft,Low Risk
+CLM11177,21,Female,Life,412558.15,10343.56,2,0,32,Accident,High Risk
+CLM11178,45,Male,Life,442466.09,39217.35,3,0,48,Theft,High Risk
+CLM11179,73,Male,Vehicle,13843.24,1123.33,0,0,233,Medical,Low Risk
+CLM11180,84,Male,Property,49233.78,2762.76,3,0,28,Medical,Low Risk
+CLM11181,28,Female,Life,397314.4,36325.78,5,1,13,Accident,High Risk
+CLM11182,21,Male,Property,53517.76,1278.24,0,0,2,Natural Disaster,Low Risk
+CLM11183,71,Female,Life,290078.86,24891.45,1,0,54,Accident,High Risk
+CLM11184,82,Male,Vehicle,11534.14,896.93,4,0,328,Theft,High Risk
+CLM11185,68,Female,Property,74221.02,5549.78,0,0,5,Theft,Low Risk
+CLM11186,84,Female,Vehicle,21356.65,1439.53,5,0,29,Natural Disaster,Low Risk
+CLM11187,44,Female,Life,481410.79,12671.38,1,0,21,Theft,Low Risk
+CLM11188,33,Male,Health,21563.08,684.14,5,0,254,Medical,High Risk
+CLM11189,70,Male,Property,14842.37,456.76,0,0,0,Natural Disaster,Low Risk
+CLM11190,56,Male,Property,97461.61,4482.98,4,1,32,Medical,High Risk
+CLM11191,88,Male,Life,227110.02,12564.74,1,0,10,Medical,Low Risk
+CLM11192,37,Male,Health,30825.75,1164.0,0,0,39,Accident,Low Risk
+CLM11193,65,Female,Health,37795.49,981.27,1,0,38,Accident,Low Risk
+CLM11194,32,Female,Vehicle,14227.06,807.85,1,0,7,Natural Disaster,Low Risk
+CLM11195,58,Male,Life,212052.97,13736.26,1,0,16,Accident,Low Risk
+CLM11196,76,Female,Vehicle,29962.26,610.42,0,0,4,Natural Disaster,Low Risk
+CLM11197,80,Female,Vehicle,6178.03,503.77,2,0,56,Accident,Low Risk
+CLM11198,41,Male,Life,355566.72,30471.24,1,0,10,Natural Disaster,Low Risk
+CLM11199,64,Male,Life,199260.61,5445.27,3,0,22,Natural Disaster,High Risk

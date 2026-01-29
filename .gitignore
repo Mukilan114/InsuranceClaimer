@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+outputs/model.pkl
+outputs/scaler.pkl
+outputs/encoders.pkl
+# Keep outputs dir structure but ignore large files if needed, or keeping them for assignment is fine.
+# For now, let's keep charts.
+node_modules/
+.DS_Store
+.env
