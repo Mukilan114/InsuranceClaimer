@@ -6,3 +6,7 @@ scikit-learn
 streamlit
 jupyter
 openpyxl
+
+flask
+flask-cors
+gunicorn
